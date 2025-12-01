@@ -10,6 +10,15 @@ You may ask why use this when stuff like [repology](https://repology.org/project
 exists? it's because this version checks ::guru's dev branch, which is easier for contributors because some package may
 already be updated in the dev branch, and hasn't been updated to the master branch, so repology doesn't track that.
 
+on top of that repology only compares the versions in all package repositories and treats the latest updated version as
+the 'latest build', so what it technically shows as the 'latest version' can actually be outdated from the upstream, to
+explain in simpler terms: if upstream has version 3, arch has version 2, and guru has version 2, repology will show that
+guru is up to date, because it's just comparing betweent the different different versions. but this repo doesn't do it,
+it tries to track upstream and get the latest version data, hence so many api calls.
+
+while some might say that this level of data is not needed, i say that it is needed since just by glancing at the data
+you can guess how many versions is it behind
+
  - Only github is supported for now, will probably add more source checkers later
 
  - Currently it will check ::guru so i don't burn through my github api calls in a single run, if you want a report
