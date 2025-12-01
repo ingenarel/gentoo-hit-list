@@ -106,9 +106,6 @@ You may ask why use this when stuff like [repology](https://repology.org/project
 exists? it's because this version checks ::guru's dev branch, which is easier for contributors because some package may
 already be updated in the dev branch, and hasn't been updated to the master branch, so repology doesn't track that.
 
- - Because github can't natively sort jackshit, I recommend using
- [sortable](https://addons.mozilla.org/en-US/firefox/addon/sortable) for sorting through the table If you need it
-
  - Only github is supported for now, will probably add more source checkers later
 
  - Currently it will check ::guru so i don't burn through my github api calls in a single run, if you want a report
