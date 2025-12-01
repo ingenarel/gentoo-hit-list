@@ -5,8 +5,8 @@
     exit 1
 }
 
-git clone --single-branch --depth 1 --branch dev https://github.com/gentoo/guru.git > dev/null || git -C ./guru pull > dev/null
-# git clone --single-branch --depth 1 --branch dev https://github.com/gentoo/gentoo.git > dev/null || git -C ./gentoo pull > dev/null
+git clone --single-branch --depth 1 --branch dev https://github.com/gentoo/guru.git > /dev/null || git -C ./guru pull > /dev/null
+# git clone --single-branch --depth 1 --branch dev https://github.com/gentoo/gentoo.git > /dev/null || git -C ./gentoo pull > /dev/null
 
 printTable() {
     echo "| Package | Downstream | Upstream | Maintainer |"
