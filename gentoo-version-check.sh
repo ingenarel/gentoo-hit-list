@@ -29,23 +29,23 @@ printTable() {
                 actualPackage="$(dirname "$ebuildName" | grep -oE '[^/]+$')"
                 actualEbuild="$(basename -s ".ebuild" "$ebuildName")"
                 actualVersion="$(echo "$actualEbuild" | sed -E "s/$actualPackage-([^_\-]+).*/\1/" )"
-                # using curl should be faster
+                # using curl should be faster but gh should be better
                 latestVersion="$(
-                # gh release --repo "$properRemote" list --limit 2 --order desc --json tagName --jq '.[].tagName'\
-                #     |
-                # sed '/nightly/d'\
-                #     |
-                # head -n1\
-                #     |
-                # sed -E 's/v?(.+)/\1/'
-                curl --silent -L -H "Accept: application/vnd.github+json"\
-                    -H "Authorization: Bearer $GH_TOKEN"\
-                    -H "X-GitHub-Api-Version: 2022-11-28"\
-                    "https://api.github.com/repos/$properRemote/tags?per_page=2&page=1"\
+                gh release --repo "$properRemote" list --limit 2 --order desc --json tagName --jq '.[].tagName'\
                     |
-                sed -nE '/nightly/d; s/\s*"name":\s*"v?(\S+)".*/\1/p'\
+                sed '/nightly/d'\
                     |
-                head -n1
+                head -n1\
+                    |
+                sed -E 's/v?(.+)/\1/'
+                # curl --silent -L -H "Accept: application/vnd.github+json"\
+                #     -H "Authorization: Bearer $GH_TOKEN"\
+                #     -H "X-GitHub-Api-Version: 2022-11-28"\
+                #     "https://api.github.com/repos/$properRemote/tags?per_page=2&page=1"\
+                #     |
+                # sed -nE '/nightly/d; s/\s*"name":\s*"v?(\S+)".*/\1/p'\
+                #     |
+                # head -n1
             )"
                 {
                     [ -n "$latestVersion" ]\
