@@ -23,9 +23,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          ./gentoo-version-check.sh | tee README.md
+          ./gentoo-version-check.sh
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          git add README.md
-          git commit -m "(ci): update readme on $(date --iso-8601=seconds)"
+          git add README.md .*-raw-data.csv
+          git commit -m "(ci): update on $(date --iso-8601=seconds)"
           git push origin HEAD
