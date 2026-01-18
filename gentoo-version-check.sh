@@ -13,7 +13,7 @@ scriptDir="$(realpath --canonicalize-missing "$0/.." --relative-to="$PWD" )"
 while IFS='' read -r line; do
     repoName="$(echo "$line" | awk '{print $1}')"
     repoBranch="$(echo "$line" | awk '{print $2}')"
-    repoLink="$(echo "$line" | awk '{print $3}').git"
+    repoLink="$(echo "$line" | awk '{print $3}')"
     git\
         clone\
         --single-branch\
