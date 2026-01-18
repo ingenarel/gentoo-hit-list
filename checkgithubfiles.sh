@@ -54,7 +54,7 @@ findRemote "$1" 'github' | while IFS='' read -r line; do
                 "$(git -C "$1" config --get remote.origin.url | sed -E 's/(\.git)?$//' | head -n1)/tree/dev/$basePkgName"\
                 "$ebuildVersion"\
                 "$latestVersion"\
-                "https://github.com/$remote"\
+                "https://github.com/$remote/tags"\
                 "$maintainerEmail"\
                 "$repologyEmail"\
             >> .github-raw-data.csv

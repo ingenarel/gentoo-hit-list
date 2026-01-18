@@ -22,6 +22,7 @@ jobs:
       - name: Run a multi-line script
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GLAB_TOKEN: ${{ secrets.GLAB_TOKEN }}
         run: |
           ./gentoo-version-check.sh
           git config --global user.name "GitHub Actions"

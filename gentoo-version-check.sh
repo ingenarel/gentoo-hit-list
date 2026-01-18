@@ -1,9 +1,9 @@
 #!/bin/sh
 
 [ -z "$GH_TOKEN" ] && {
-    echo "No valid github token"
+    echo "No valid github token" >&2
     gh auth status > /dev/null 2>&1 || {
-        echo "gh cli isn't authenticated"
+        echo "gh cli isn't authenticated" >&2
         exit
     }
 }
@@ -22,8 +22,15 @@ while IFS='' read -r line; do
         "$repoLink"\
         "$scriptDir/$repoName" > /dev/null ||
     git -C "$scriptDir/$repoName" pull > /dev/null
-    [ "$1" != dry ] && "$scriptDir/checkgithubfiles.sh" "$scriptDir/$repoName"
+    [ "$1" != dry ] && {
+        "$scriptDir/checkgithubfiles.sh" "$scriptDir/$repoName" &
+        "$scriptDir/checkgitlabfiles.sh" "$scriptDir/$repoName" &
+    }
 done < "$scriptDir/config"
+
+echo "waiting for scripts to complete" >&2
+wait
+echo "waiting finished!" >&2
 
 readMeData="$( cat "$scriptDir/README.md" )"
 rm "$scriptDir/README.md"
@@ -42,6 +49,10 @@ echo "$readMeData" | while IFS='' read -r line; do
                     echo "| Package | Downstream | Upstream | Maintainer |"
                     echo "| ------- | ---------- | -------- | ---------- |"
                 } >> "$scriptDir/README.md"
+                {
+                    tail -n +2 "$scriptDir/.github-raw-data.csv"
+                    tail -n +2 "$scriptDir/.gitlab-raw-data.csv"
+                } |
                 while IFS=',' read -r\
                     package\
                     packageLink\
@@ -56,20 +67,9 @@ echo "$readMeData" | while IFS='' read -r line; do
                         "$ebuildVersion"\
                         "[$sourceVersion]($sourceTagsLink)"\
                         "[$maintainerEmail]($repologyEmail)"
-                done < "$scriptDir/.github-raw-data.csv" |
+                done |
                 sort >> "$scriptDir/README.md"
             done < "$scriptDir/config"
-            # {
-            #     head -n1 "$scriptDir/.github-raw-data.csv"
-            #     head -n1 "$scriptDir/.github-raw-data.csv" | tr '[:alnum:]' '-'
-            #     for type in\
-                #         github
-            #     do
-            #         [ -f "$scriptDir/.$type-raw-data.csv" ] && {
-            #             tail -n +2 "$scriptDir/.$type-raw-data.csv" | sort
-            #         }
-            #     done
-            # } | sed -e 's/,/ | /g; s/.*/| & |/' >> "$scriptDir/README.md"
             ;;
         '<!-- end -->')
             tableHasStarted=false
