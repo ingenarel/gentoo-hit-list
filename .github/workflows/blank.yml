@@ -24,9 +24,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GLAB_TOKEN: ${{ secrets.GLAB_TOKEN }}
         run: |
-          ./gentoo-version-check.sh
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
+          ./gentoo-version-check.sh
           git add README.md .*-raw-data.csv
           git commit -m "(ci): update on $(date --iso-8601=seconds)"
           git push origin HEAD
