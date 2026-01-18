@@ -23,8 +23,8 @@ while IFS='' read -r line; do
         "$scriptDir/$repoName" > /dev/null ||
     git -C "$scriptDir/$repoName" pull > /dev/null
     [ "$1" != dry ] && {
-        "$scriptDir/checkgithubfiles.sh" "$scriptDir/$repoName"
-        "$scriptDir/checkgitlabfiles.sh" "$scriptDir/$repoName"
+        "$scriptDir/checkgithubfiles.sh" "$scriptDir/$repoName" &
+        "$scriptDir/checkgitlabfiles.sh" "$scriptDir/$repoName" &
     }
 done < "$scriptDir/config"
 
