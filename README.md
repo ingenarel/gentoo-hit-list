@@ -1,5 +1,6 @@
-# Disclaimer:
-
+<details>
+    <summary>Why?</summary>
+    
 I have a problem, when I see outdated packages, I want to update them as soon as I can
 
 I tried to find solutions, and in turn also founded like minded people with the same question, and even some answers,
@@ -19,17 +20,10 @@ it tries to track upstream and get the latest version data, hence so many api ca
 while some might say that this level of data is not needed, i say that it is needed since just by glancing at the data
 you can guess how many versions is it behind
 
- - Only github is supported for now, will probably add more source checkers later
+</details>
 
- - Currently it will check ::guru so i don't burn through my github api calls in a single run, if you want a report
- generated for ::gentoo, you should self host it/fork the repo and run the actions manually when you want
-
- - The report might be outdated, because the github actions will only run once per X ammount of time, the time is
- subject to change depending on my own API usage, so you may want to self run this if you want the complete up to date
- version.
-
- - Currently it's not modular, but I think I might be able to make this a usable github action for other repos, if you
- want this, hit me up and I maybe will make one, (no promises :3, and if i don't, you can do it yourself)
+<details>
+    <summary>READ THIS:</summary>
 
 ### Please:
  - Don't use this repo to make low quality/broken version bumps and/or prs and/or spam bug reports, the whole point is
@@ -49,8 +43,27 @@ you can guess how many versions is it behind
  - if you want to self run this using github actions (i recommend this way), you *should* be just able to fork it,
  create token and set GH_TOKEN secret, then run it through github actions
 
+</details>
+
+<details>
+    <summary>notes:</summary>
+
+ - Currently it will check ::guru so i don't burn through my github api calls in a single run, if you want a report
+ generated for ::gentoo, you should self host it/fork the repo and run the actions manually when you want
+
+ - The report might be outdated, because the github actions will only run once per 2 days, the time is
+ subject to change depending on my own API usage, so you may want to self run this if you want the complete up to date
+ version.
+
+ - I think I might be able to make this a usable github action for other repos, if you
+ want this, hit me up and I maybe will make one, (no promises :3, and if i don't, you can do it yourself)
+
+</details>
+
 <!-- start -->
-# [guru dev branch](https://github.com/gentoo/guru.git)
+<details>
+    <summary><a href="https://github.com/gentoo/guru.git">guru dev branch</a></summary>
+
 | Package | Downstream | Upstream | Maintainer |
 | ------- | ---------- | -------- | ---------- |
 | [acct-group/keyd](https://github.com/gentoo/guru/tree/dev/acct-group/keyd) | 2.5.0 | [2.6.0](https://github.com/rvaiya/keyd/tags) | [jack@pngu.org](https://repology.org/maintainer/jack@pngu.org) |
@@ -551,6 +564,7 @@ you can guess how many versions is it behind
 | [x11-themes/arc-darkest-colors](https://github.com/gentoo/guru/tree/dev/x11-themes/arc-darkest-colors) | 0 | [1.0](https://github.com/rtlewis88/rtl88-Themes/tags) | [tea+gentoo@cuddleslut.fr](https://repology.org/maintainer/tea+gentoo@cuddleslut.fr) |
 | [x11-themes/catppuccin-neovim](https://github.com/gentoo/guru/tree/dev/x11-themes/catppuccin-neovim) | 1.7.0 | [1.11.0](https://github.com/catppuccin/nvim/tags) | [somerand0mcat@hotmail.com](https://repology.org/maintainer/somerand0mcat@hotmail.com) |
 | [x11-wm/qtile-extras](https://github.com/gentoo/guru/tree/dev/x11-wm/qtile-extras) | 0.33.0 | [0.34.1](https://github.com/elParaguayo/qtile-extras/tags) | [-](-) |
+</details>
 <!-- end -->
 
 
