@@ -62,6 +62,17 @@ for self-hosting, you need to make sure you have a system that has:
 - curl
 - grep command that supports `-o` (most systems should just have it)
 
+### Config file:
+
+The config file is simple
+
+`guru dev https://github.com/gentoo/guru.git`
+
+There should be one line each for every repo you want to add
+
+It's separated by spaces, the first item is the name of the repo, the second item is the name of the branch that you
+wanna check, and the third item is the repo link
+
 </details>
 
 <details>
