@@ -1,0 +1,11 @@
+Codeberg
+Forgejo
+Sourcehut
+Repology
+Devmanual
+Pkgcheck
+Gentoo
+coreutils
+sed
+grep
+gentoo
