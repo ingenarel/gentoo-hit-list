@@ -1,3 +1,15 @@
+### A hit list generator for bored contributors who wanna see which packages are probably? outdated
+
+supports checking:
+
+- [x] github
+- [x] gitlab
+- [x] codeberg
+- [ ] other forgejo based repos (since codeberg is based on forgejo we only need to copy paste the codeberg checker then change the root of the links in the other forgejo stuff and stuff *should* work out)
+- [ ] sourcehut (graphql hurts my brain, prs are welcome)
+- [ ] other gitlab instances (copy paste the gitlab checker, change the root of the link, stuff *should* work out)
+- [ ] sourceforge: TODO, prs are welcome
+
 <details>
     <summary>Why?</summary>
     
@@ -35,13 +47,20 @@ you can guess how many versions is it behind
 
 ### Self host/Fork Host:
 
- - if you want to run this locally, you need to set a GH_TOKEN env var, i recommend using a [fine grained access
- token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#fine-grained-personal-access-tokens)
+you need to set these env vars(for locally) / [repo secrets](https://docs.github.com/en/actions/how-tos/write-workflows/choose-what-workflows-do/use-secrets) (for github actions ):
 
- please remember that the output is designed to be put inside a github readme, so it may not be pretty in the terminal
+- `GH_TOKEN` ([for github.com](https://github.com/settings/personal-access-tokens))
+- `GLAB_TOKEN` ([for gitlab.com](https://gitlab.com/-/user_settings/personal_access_tokens?page=1&state=active&sort=expires_asc), with the read_api scope)
+- `CODEBERG_TOKEN`([for codeberg.org](https://codeberg.org/user/settings/applications), with read only access to only public repositories)
 
- - if you want to self run this using github actions (i recommend this way), you *should* be just able to fork it,
- create token and set GH_TOKEN secret, then run it through github actions
+for self hosting, you need to make sure you have a system that has:
+
+- a posix compliant shell
+- sort command with the `--version-sort` (gnu coreutils has it for example)
+- sed command with the extended regex support: `sed -E` (gnu sed has it)
+- github cli (should just work in github actions, but probably need to be installed on your system if you want to run locally) i'm too lazy to redo my secrets and setup the github check script to just use curl
+- curl
+- grep command that supports `-o` (most systems should just have it)
 
 </details>
 
