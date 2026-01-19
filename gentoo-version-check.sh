@@ -45,11 +45,11 @@ echo "$readMeData" | while IFS='' read -r line; do
                 repoName="$(echo "$line" | awk '{print $1}')"
                 repoBranch="$(echo "$line" | awk '{print $2}')"
                 repoLink="$(echo "$line" | sed -n -E 's/.*\s+(\S+)$/\1/p')"
-                {
-                    echo "# [$repoName $repoBranch branch]($repoLink)"
-                    echo "| Package | Downstream | Upstream | Maintainer |"
-                    echo "| ------- | ---------- | -------- | ---------- |"
-                } >> "$scriptDir/README.md"
+                echo "<details>"
+                echo "    <summary><a href=\"$repoLink/tree/$repoBranch\">$repoName $repoBranch branch</a></summary>"
+                echo ""
+                echo "| Package | Downstream | Upstream | Maintainer |"
+                echo "| ------- | ---------- | -------- | ---------- |"
                 {
                     tail -n +2 "$scriptDir/.github-raw-data.csv"
                     tail -n +2 "$scriptDir/.gitlab-raw-data.csv"
@@ -70,8 +70,10 @@ echo "$readMeData" | while IFS='' read -r line; do
                         "[$sourceVersion]($sourceTagsLink)"\
                         "[$maintainerEmail]($repologyEmail)"
                 done |
-                sort >> "$scriptDir/README.md"
-            done < "$scriptDir/config"
+                sort
+                echo ""
+                echo "</details>"
+            done < "$scriptDir/config" >> "$scriptDir/README.md"
             ;;
         '<!-- end -->')
             tableHasStarted=false

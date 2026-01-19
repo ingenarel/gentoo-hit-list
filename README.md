@@ -62,7 +62,7 @@ you can guess how many versions is it behind
 
 <!-- start -->
 <details>
-    <summary><a href="https://github.com/gentoo/guru.git">guru dev branch</a></summary>
+    <summary><a href="https://github.com/gentoo/guru.git/tree/dev">guru dev branch</a></summary>
 
 | Package | Downstream | Upstream | Maintainer |
 | ------- | ---------- | -------- | ---------- |
@@ -564,6 +564,7 @@ you can guess how many versions is it behind
 | [x11-themes/arc-darkest-colors](https://github.com/gentoo/guru/tree/dev/x11-themes/arc-darkest-colors) | 0 | [1.0](https://github.com/rtlewis88/rtl88-Themes/tags) | [tea+gentoo@cuddleslut.fr](https://repology.org/maintainer/tea+gentoo@cuddleslut.fr) |
 | [x11-themes/catppuccin-neovim](https://github.com/gentoo/guru/tree/dev/x11-themes/catppuccin-neovim) | 1.7.0 | [1.11.0](https://github.com/catppuccin/nvim/tags) | [somerand0mcat@hotmail.com](https://repology.org/maintainer/somerand0mcat@hotmail.com) |
 | [x11-wm/qtile-extras](https://github.com/gentoo/guru/tree/dev/x11-wm/qtile-extras) | 0.33.0 | [0.34.1](https://github.com/elParaguayo/qtile-extras/tags) | [-](-) |
+
 </details>
 <!-- end -->
 
