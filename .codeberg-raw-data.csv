@@ -1,0 +1,12 @@
+package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
+app-admin/oet,https://github.com/gentoo/guru/tree/dev/app-admin/oet,0.1.11,oet-0.1.11,https://codeberg.org/bcsthsc/overlay-emerge-tool/tags,thomas.scholz@protonmail.com,https://repology.org/maintainer/thomas.scholz@protonmail.com
+www-apps/soupault-bin,https://github.com/gentoo/guru/tree/dev/www-apps/soupault-bin,5.2.0,5.2.1,https://codeberg.org/PataphysicalSociety/soupault/tags,itai@itaiferber.net,https://repology.org/maintainer/itai@itaiferber.net
+www-apps/forgejo,https://github.com/gentoo/guru/tree/dev/www-apps/forgejo,13.0.2,14.0.1,https://codeberg.org/forgejo/forgejo/tags,artemis@artemis.sh,https://repology.org/maintainer/artemis@artemis.sh
+www-apps/rimgo,https://github.com/gentoo/guru/tree/dev/www-apps/rimgo,1.2.1,1.4.1,https://codeberg.org/rimgo/rimgo/tags,benoit.dufour@mail.com,https://repology.org/maintainer/benoit.dufour@mail.com
+net-news/newsraft,https://github.com/gentoo/guru/tree/dev/net-news/newsraft,0.34,newsraft-0.35,https://codeberg.org/newsraft/newsraft/tags,eli.burch@burchbytes.com,https://repology.org/maintainer/eli.burch@burchbytes.com
+gui-apps/wbg,https://github.com/gentoo/guru/tree/dev/gui-apps/wbg,1.2.0,1.3.0,https://codeberg.org/dnkl/wbg/tags,leohdz172@proton.me,https://repology.org/maintainer/leohdz172@proton.me
+x11-misc/ly,https://github.com/gentoo/guru/tree/dev/x11-misc/ly,1.2.0,1.3.1,https://codeberg.org/fairyglade/ly/tags,saigon-tech@tuta.io,https://repology.org/maintainer/saigon-tech@tuta.io
+x11-misc/wallust,https://github.com/gentoo/guru/tree/dev/x11-misc/wallust,3.3.0,3.5.2,https://codeberg.org/explosion-mental/wallust/tags,colonia_duck@posteo.net,https://repology.org/maintainer/colonia_duck@posteo.net
+media-sound/tenacity,https://github.com/gentoo/guru/tree/dev/media-sound/tenacity,1.3.4,1.4-alpha1,https://codeberg.org/tenacityteam/tenacity/tags,truffle074@gmail.com,https://repology.org/maintainer/truffle074@gmail.com
+dev-util/git-pages-cli,https://github.com/gentoo/guru/tree/dev/dev-util/git-pages-cli,1.5.1,1.5.2,https://codeberg.org/git-pages/git-pages-cli/tags,demize@unstable.systems,https://repology.org/maintainer/demize@unstable.systems
+app-misc/mymefetch,https://github.com/gentoo/guru/tree/dev/app-misc/mymefetch,1.3,1.4,https://codeberg.org/MymeType/mymefetch/tags,-,-

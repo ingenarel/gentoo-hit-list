@@ -25,6 +25,7 @@ while IFS='' read -r line; do
     [ "$1" != dry ] && {
         "$scriptDir/checkgithubfiles.sh" "$scriptDir/$repoName" &
         "$scriptDir/checkgitlabfiles.sh" "$scriptDir/$repoName" &
+        "$scriptDir/checkcodebergfiles.sh" "$scriptDir/$repoName" &
     }
 done < "$scriptDir/config"
 
@@ -52,6 +53,7 @@ echo "$readMeData" | while IFS='' read -r line; do
                 {
                     tail -n +2 "$scriptDir/.github-raw-data.csv"
                     tail -n +2 "$scriptDir/.gitlab-raw-data.csv"
+                    tail -n +2 "$scriptDir/.codeberg-raw-data.csv"
                 } |
                 while IFS=',' read -r\
                     package\
