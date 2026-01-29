@@ -1,9 +1,11 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
+app-text/komikku,https://github.com/gentoo/guru/tree/dev/app-text/komikku,1.100.0,1.101.0,https://codeberg.org/valos/Komikku/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
 dev-util/git-pages-cli,https://github.com/gentoo/guru/tree/dev/dev-util/git-pages-cli,1.5.1,1.5.2,https://codeberg.org/git-pages/git-pages-cli/tags,demize@unstable.systems,https://repology.org/maintainer/demize@unstable.systems
 app-misc/mymefetch,https://github.com/gentoo/guru/tree/dev/app-misc/mymefetch,1.3,1.4,https://codeberg.org/MymeType/mymefetch/tags,-,-
 media-sound/spct,https://github.com/gentoo/guru/tree/dev/media-sound/spct,1.2.2,1.2.3,https://codeberg.org/jneen/spct/tags,demize@unstable.systems,https://repology.org/maintainer/demize@unstable.systems
 media-sound/tenacity,https://github.com/gentoo/guru/tree/dev/media-sound/tenacity,1.3.4,1.4-alpha1,https://codeberg.org/tenacityteam/tenacity/tags,truffle074@gmail.com,https://repology.org/maintainer/truffle074@gmail.com
 gui-apps/wbg,https://github.com/gentoo/guru/tree/dev/gui-apps/wbg,1.2.0,1.3.0,https://codeberg.org/dnkl/wbg/tags,leohdz172@proton.me,https://repology.org/maintainer/leohdz172@proton.me
+gui-apps/fuzzel,https://github.com/gentoo/guru/tree/dev/gui-apps/fuzzel,1.13.1,1.14.0,https://codeberg.org/dnkl/fuzzel/tags,freijon@pm.me,https://repology.org/maintainer/freijon@pm.me
 app-admin/oet,https://github.com/gentoo/guru/tree/dev/app-admin/oet,0.1.11,oet-0.1.11,https://codeberg.org/bcsthsc/overlay-emerge-tool/tags,thomas.scholz@protonmail.com,https://repology.org/maintainer/thomas.scholz@protonmail.com
 net-news/newsraft,https://github.com/gentoo/guru/tree/dev/net-news/newsraft,0.34,newsraft-0.35,https://codeberg.org/newsraft/newsraft/tags,eli.burch@burchbytes.com,https://repology.org/maintainer/eli.burch@burchbytes.com
 x11-misc/ly,https://github.com/gentoo/guru/tree/dev/x11-misc/ly,1.2.0,1.3.1,https://codeberg.org/fairyglade/ly/tags,saigon-tech@tuta.io,https://repology.org/maintainer/saigon-tech@tuta.io
