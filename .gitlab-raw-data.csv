@@ -7,7 +7,8 @@ net-voip/vvmd,https://github.com/gentoo/guru/tree/dev/net-voip/vvmd,0.8,1.1,http
 app-mobilephone/mobile-config-firefox,https://github.com/gentoo/guru/tree/dev/app-mobilephone/mobile-config-firefox,2.1.0,4.3.2,https://gitlab.com/postmarketOS/mobile-config-firefox/tags,-,-
 games-util/sdl2-gamepad-mapper,https://github.com/gentoo/guru/tree/dev/games-util/sdl2-gamepad-mapper,0.0.8,0.0.9,https://gitlab.com/ryochan7/sdl2-gamepad-mapper/tags,carana2099@gmail.com,https://repology.org/maintainer/carana2099@gmail.com
 dev-python/pyproject2ebuild,https://github.com/gentoo/guru/tree/dev/dev-python/pyproject2ebuild,0.0.3,0.0.4,https://gitlab.com/oz123/pyproject2ebuild/tags,oz.tiram@gmail.com,https://repology.org/maintainer/oz.tiram@gmail.com
-gui-apps/darkman,https://github.com/gentoo/guru/tree/dev/gui-apps/darkman,2.2.0,2.3.0,https://gitlab.com/WhyNotHugo/darkman/tags,mm1ke@gentoo.org,https://repology.org/maintainer/mm1ke@gentoo.org
+gui-apps/darkman,https://github.com/gentoo/guru/tree/dev/gui-apps/darkman,2.2.0,2.3.1,https://gitlab.com/WhyNotHugo/darkman/tags,mm1ke@gentoo.org,https://repology.org/maintainer/mm1ke@gentoo.org
+gui-apps/coreimage,https://github.com/gentoo/guru/tree/dev/gui-apps/coreimage,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/coreimage/tags,-,-
 gui-apps/corestats,https://github.com/gentoo/guru/tree/dev/gui-apps/corestats,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/corestats/tags,-,-
 gnome-extra/vvmplayer,https://github.com/gentoo/guru/tree/dev/gnome-extra/vvmplayer,1.4,2.6,https://gitlab.com/kop316/vvmplayer/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 gui-libs/libcprime,https://github.com/gentoo/guru/tree/dev/gui-libs/libcprime,5.0.0,5.0.1,https://gitlab.com/cubocore/libcprime/tags,-,-
