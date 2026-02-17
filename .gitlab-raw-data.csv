@@ -31,4 +31,4 @@ app-office/pyspread,https://github.com/gentoo/guru/tree/dev/app-office/pyspread,
 sci-physics/ovito,https://github.com/gentoo/guru/tree/dev/sci-physics/ovito,3.10.5,3.14.1,https://gitlab.com/stuko/ovito/tags,strdenis02@gmail.com,https://repology.org/maintainer/strdenis02@gmail.com
 www-servers/hinsightd,https://github.com/gentoo/guru/tree/dev/www-servers/hinsightd,0.9.17,0.9.21,https://gitlab.com/tiotags/hin9/tags,tiotags1@gmail.com,https://repology.org/maintainer/tiotags1@gmail.com
 app-mobilephone/mobile-config-firefox,https://github.com/gentoo/guru/tree/dev/app-mobilephone/mobile-config-firefox,2.1.0,4.3.2,https://gitlab.com/postmarketOS/mobile-config-firefox/tags,-,-
-app-admin/krapplet,https://github.com/gentoo/guru/tree/dev/app-admin/krapplet,0.3.1,0.4.0,https://gitlab.com/hfernh/krapplet/tags,hfern@fernhout.info,https://repology.org/maintainer/hfern@fernhout.info
+app-admin/krapplet,https://github.com/gentoo/guru/tree/dev/app-admin/krapplet,0.3.1,0.5.0,https://gitlab.com/hfernh/krapplet/tags,hfern@fernhout.info,https://repology.org/maintainer/hfern@fernhout.info

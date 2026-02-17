@@ -6,8 +6,6 @@ gui-apps/fuzzel,https://github.com/gentoo/guru/tree/dev/gui-apps/fuzzel,1.13.1,1
 gui-apps/wbg,https://github.com/gentoo/guru/tree/dev/gui-apps/wbg,1.2.0,1.3.0,https://codeberg.org/dnkl/wbg/tags,leohdz172@proton.me,https://repology.org/maintainer/leohdz172@proton.me
 net-news/newsraft,https://github.com/gentoo/guru/tree/dev/net-news/newsraft,0.34,newsraft-0.35,https://codeberg.org/newsraft/newsraft/tags,eli.burch@burchbytes.com,https://repology.org/maintainer/eli.burch@burchbytes.com
 app-misc/mymefetch,https://github.com/gentoo/guru/tree/dev/app-misc/mymefetch,1.3,1.4,https://codeberg.org/MymeType/mymefetch/tags,-,-
-app-text/komikku,https://github.com/gentoo/guru/tree/dev/app-text/komikku,1.100.0,1.103.0,https://codeberg.org/valos/Komikku/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
-dev-util/git-pages-cli,https://github.com/gentoo/guru/tree/dev/dev-util/git-pages-cli,1.5.1,1.5.2,https://codeberg.org/git-pages/git-pages-cli/tags,demize@unstable.systems,https://repology.org/maintainer/demize@unstable.systems
 www-apps/rimgo,https://github.com/gentoo/guru/tree/dev/www-apps/rimgo,1.2.1,1.4.1,https://codeberg.org/rimgo/rimgo/tags,benoit.dufour@mail.com,https://repology.org/maintainer/benoit.dufour@mail.com
 www-apps/soupault-bin,https://github.com/gentoo/guru/tree/dev/www-apps/soupault-bin,5.2.0,5.2.1,https://codeberg.org/PataphysicalSociety/soupault/tags,itai@itaiferber.net,https://repology.org/maintainer/itai@itaiferber.net
 www-apps/forgejo,https://github.com/gentoo/guru/tree/dev/www-apps/forgejo,13.0.2,14.0.2,https://codeberg.org/forgejo/forgejo/tags,artemis@artemis.sh,https://repology.org/maintainer/artemis@artemis.sh
