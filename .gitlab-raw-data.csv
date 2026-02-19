@@ -21,7 +21,7 @@ games-misc/cbonsai,https://github.com/gentoo/guru/tree/dev/games-misc/cbonsai,1.
 mpv-plugin/mpv-plugin-xrandr,https://github.com/gentoo/guru/tree/dev/mpv-plugin/mpv-plugin-xrandr,2023.06.19,tags/r2023_06_19,https://gitlab.com/lvml/mpv-plugin-xrandr/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
 net-voip/vvmd,https://github.com/gentoo/guru/tree/dev/net-voip/vvmd,0.8,1.1,https://gitlab.com/kop316/vvmd/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 games-util/sdl2-gamepad-mapper,https://github.com/gentoo/guru/tree/dev/games-util/sdl2-gamepad-mapper,0.0.8,0.0.9,https://gitlab.com/ryochan7/sdl2-gamepad-mapper/tags,carana2099@gmail.com,https://repology.org/maintainer/carana2099@gmail.com
-net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.18.3,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
+net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.18.4,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
 net-im/conduit,https://github.com/gentoo/guru/tree/dev/net-im/conduit,0.10.11,0.10.12,https://gitlab.com/famedly/conduit/tags,julien@jroy.ca,https://repology.org/maintainer/julien@jroy.ca
 gui-libs/libcsys,https://github.com/gentoo/guru/tree/dev/gui-libs/libcsys,5.0.0,5.0.1,https://gitlab.com/cubocore/libcsys/tags,-,-
 gui-libs/libcprime,https://github.com/gentoo/guru/tree/dev/gui-libs/libcprime,5.0.0,5.0.1,https://gitlab.com/cubocore/libcprime/tags,-,-
