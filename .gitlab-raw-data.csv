@@ -21,6 +21,7 @@ gui-apps/corehunt,https://github.com/gentoo/guru/tree/dev/gui-apps/corehunt,5.0.
 gui-apps/coreaction,https://github.com/gentoo/guru/tree/dev/gui-apps/coreaction,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/coreaction/tags,-,-
 gui-apps/corepad,https://github.com/gentoo/guru/tree/dev/gui-apps/corepad,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/corepad/tags,-,-
 gui-apps/corerenamer,https://github.com/gentoo/guru/tree/dev/gui-apps/corerenamer,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/corepdf/tags,-,-
+gui-apps/coregarage,https://github.com/gentoo/guru/tree/dev/gui-apps/coregarage,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/coregarage/tags,-,-
 gui-apps/coreshot,https://github.com/gentoo/guru/tree/dev/gui-apps/coreshot,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/coreshot/tags,-,-
 gnome-extra/vvmplayer,https://github.com/gentoo/guru/tree/dev/gnome-extra/vvmplayer,1.4,2.6,https://gitlab.com/kop316/vvmplayer/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 gui-libs/libcprime,https://github.com/gentoo/guru/tree/dev/gui-libs/libcprime,5.0.0,5.0.1,https://gitlab.com/cubocore/libcprime/tags,-,-
