@@ -1,4 +1,6 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
+sys-apps/coolercontrol,https://github.com/gentoo/guru/tree/dev/sys-apps/coolercontrol,3.1.1,4.0.1,https://gitlab.com/coolercontrol/coolercontrol/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
+sys-apps/coolercontrold,https://github.com/gentoo/guru/tree/dev/sys-apps/coolercontrold,3.1.1,4.0.1,https://gitlab.com/coolercontrol/coolercontrol/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
 net-misc/peertube-viewer-rs,https://github.com/gentoo/guru/tree/dev/net-misc/peertube-viewer-rs,1.8.6,1.8.8,https://gitlab.com/peertube-viewer/peertube-viewer-rs/tags,-,-
 gnome-extra/vvmplayer,https://github.com/gentoo/guru/tree/dev/gnome-extra/vvmplayer,1.4,2.6,https://gitlab.com/kop316/vvmplayer/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 gui-apps/corearchiver,https://github.com/gentoo/guru/tree/dev/gui-apps/corearchiver,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/corearchiver/tags,-,-
@@ -23,7 +25,7 @@ games-misc/cbonsai,https://github.com/gentoo/guru/tree/dev/games-misc/cbonsai,1.
 mpv-plugin/mpv-plugin-xrandr,https://github.com/gentoo/guru/tree/dev/mpv-plugin/mpv-plugin-xrandr,2023.06.19,tags/r2023_06_19,https://gitlab.com/lvml/mpv-plugin-xrandr/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
 net-voip/vvmd,https://github.com/gentoo/guru/tree/dev/net-voip/vvmd,0.8,1.1,https://gitlab.com/kop316/vvmd/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 games-util/sdl2-gamepad-mapper,https://github.com/gentoo/guru/tree/dev/games-util/sdl2-gamepad-mapper,0.0.8,0.0.9,https://gitlab.com/ryochan7/sdl2-gamepad-mapper/tags,carana2099@gmail.com,https://repology.org/maintainer/carana2099@gmail.com
-net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.18.8,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
+net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.19.0,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
 gui-libs/libcsys,https://github.com/gentoo/guru/tree/dev/gui-libs/libcsys,5.0.0,5.0.1,https://gitlab.com/cubocore/libcsys/tags,-,-
 gui-libs/libcprime,https://github.com/gentoo/guru/tree/dev/gui-libs/libcprime,5.0.0,5.0.1,https://gitlab.com/cubocore/libcprime/tags,-,-
 media-video/megapixels,https://github.com/gentoo/guru/tree/dev/media-video/megapixels,1.4.3,1.7.0,https://gitlab.com/postmarketOS/megapixels/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
