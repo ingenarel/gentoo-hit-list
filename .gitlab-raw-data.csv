@@ -1,6 +1,4 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
-sys-apps/coolercontrol,https://github.com/gentoo/guru/tree/dev/sys-apps/coolercontrol,3.1.1,4.0.1,https://gitlab.com/coolercontrol/coolercontrol/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
-sys-apps/coolercontrold,https://github.com/gentoo/guru/tree/dev/sys-apps/coolercontrold,3.1.1,4.0.1,https://gitlab.com/coolercontrol/coolercontrol/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
 net-misc/peertube-viewer-rs,https://github.com/gentoo/guru/tree/dev/net-misc/peertube-viewer-rs,1.8.6,1.8.8,https://gitlab.com/peertube-viewer/peertube-viewer-rs/tags,-,-
 gnome-extra/vvmplayer,https://github.com/gentoo/guru/tree/dev/gnome-extra/vvmplayer,1.4,2.6,https://gitlab.com/kop316/vvmplayer/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 gui-apps/corearchiver,https://github.com/gentoo/guru/tree/dev/gui-apps/corearchiver,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/corearchiver/tags,-,-
@@ -19,6 +17,7 @@ gui-apps/corepaint,https://github.com/gentoo/guru/tree/dev/gui-apps/corepaint,5.
 gui-apps/corehunt,https://github.com/gentoo/guru/tree/dev/gui-apps/corehunt,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/corehunt/tags,-,-
 gui-apps/corerenamer,https://github.com/gentoo/guru/tree/dev/gui-apps/corerenamer,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/corepdf/tags,-,-
 gui-apps/coreshot,https://github.com/gentoo/guru/tree/dev/gui-apps/coreshot,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/coreshot/tags,-,-
+dev-python/kicad-python,https://github.com/gentoo/guru/tree/dev/dev-python/kicad-python,0.5.0,0.6.0,https://gitlab.com/kicad/code/kicad-python/tags,vowstar@gmail.com,https://repology.org/maintainer/vowstar@gmail.com
 dev-python/pyproject2ebuild,https://github.com/gentoo/guru/tree/dev/dev-python/pyproject2ebuild,0.0.3,0.0.4,https://gitlab.com/oz123/pyproject2ebuild/tags,oz.tiram@gmail.com,https://repology.org/maintainer/oz.tiram@gmail.com
 app-misc/ufetch,https://github.com/gentoo/guru/tree/dev/app-misc/ufetch,0.3,0.4,https://gitlab.com/jschx/ufetch/tags,-,-
 app-misc/corectrl,https://github.com/gentoo/guru/tree/dev/app-misc/corectrl,1.5.1,1.5.2,https://gitlab.com/corectrl/corectrl/tags,kostadinshishmanov@protonmail.com,https://repology.org/maintainer/kostadinshishmanov@protonmail.com
