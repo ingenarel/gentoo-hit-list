@@ -7,7 +7,7 @@ www-apps/soupault-bin,https://github.com/gentoo/guru/tree/dev/www-apps/soupault-
 www-apps/rimgo,https://github.com/gentoo/guru/tree/dev/www-apps/rimgo,1.2.1,1.4.1,https://codeberg.org/rimgo/rimgo/tags,benoit.dufour@mail.com,https://repology.org/maintainer/benoit.dufour@mail.com
 gui-apps/wbg,https://github.com/gentoo/guru/tree/dev/gui-apps/wbg,1.2.0,1.3.0,https://codeberg.org/dnkl/wbg/tags,leohdz172@proton.me,https://repology.org/maintainer/leohdz172@proton.me
 gui-apps/awww,https://github.com/gentoo/guru/tree/dev/gui-apps/awww,0.11.2,0.12.0,https://codeberg.org/LGFae/awww/tags,-,-
-net-news/newsraft,https://github.com/gentoo/guru/tree/dev/net-news/newsraft,0.34,newsraft-0.35,https://codeberg.org/newsraft/newsraft/tags,eli.burch@burchbytes.com,https://repology.org/maintainer/eli.burch@burchbytes.com
+net-news/newsraft,https://github.com/gentoo/guru/tree/dev/net-news/newsraft,0.34,newsraft-0.36,https://codeberg.org/newsraft/newsraft/tags,eli.burch@burchbytes.com,https://repology.org/maintainer/eli.burch@burchbytes.com
 gui-wm/kwm,https://github.com/gentoo/guru/tree/dev/gui-wm/kwm,0.1.2,0.3.0,https://codeberg.org/ifreund/zig-pixman/tags,vimproved@inventati.org,https://repology.org/maintainer/vimproved@inventati.org
 gui-wm/river,https://github.com/gentoo/guru/tree/dev/gui-wm/river,0.4.1,0.4.2,https://codeberg.org/river/river/tags,dev@dyama.net,https://repology.org/maintainer/dev@dyama.net
 dev-util/git-pages-cli,https://github.com/gentoo/guru/tree/dev/dev-util/git-pages-cli,1.6.0,latest,https://codeberg.org/git-pages/git-pages-cli/tags,demize@unstable.systems,https://repology.org/maintainer/demize@unstable.systems

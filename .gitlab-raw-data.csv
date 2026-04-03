@@ -1,6 +1,5 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 media-video/megapixels,https://github.com/gentoo/guru/tree/dev/media-video/megapixels,1.4.3,1.7.0,https://gitlab.com/postmarketOS/megapixels/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
-dev-python/kicad-python,https://github.com/gentoo/guru/tree/dev/dev-python/kicad-python,0.5.0,0.6.0,https://gitlab.com/kicad/code/kicad-python/tags,vowstar@gmail.com,https://repology.org/maintainer/vowstar@gmail.com
 dev-python/pyproject2ebuild,https://github.com/gentoo/guru/tree/dev/dev-python/pyproject2ebuild,0.0.3,0.0.4,https://gitlab.com/oz123/pyproject2ebuild/tags,oz.tiram@gmail.com,https://repology.org/maintainer/oz.tiram@gmail.com
 www-servers/hinsightd,https://github.com/gentoo/guru/tree/dev/www-servers/hinsightd,0.9.17,0.9.21,https://gitlab.com/tiotags/hin9/tags,tiotags1@gmail.com,https://repology.org/maintainer/tiotags1@gmail.com
 gui-apps/corepad,https://github.com/gentoo/guru/tree/dev/gui-apps/corepad,5.0.0,5.0.1,https://gitlab.com/cubocore/coreapps/corepad/tags,-,-
