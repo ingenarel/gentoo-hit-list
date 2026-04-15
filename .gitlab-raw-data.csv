@@ -7,7 +7,7 @@ gui-libs/libcsys,https://github.com/gentoo/guru/tree/dev/gui-libs/libcsys,5.0.0,
 gui-libs/libcprime,https://github.com/gentoo/guru/tree/dev/gui-libs/libcprime,5.0.0,5.0.1,https://gitlab.com/cubocore/libcprime/tags,-,-
 net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.20.3,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
 gnome-extra/vvmplayer,https://github.com/gentoo/guru/tree/dev/gnome-extra/vvmplayer,1.4,2.6,https://gitlab.com/kop316/vvmplayer/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
-sci-physics/ovito,https://github.com/gentoo/guru/tree/dev/sci-physics/ovito,3.10.5,3.15.2,https://gitlab.com/stuko/ovito/tags,strdenis02@gmail.com,https://repology.org/maintainer/strdenis02@gmail.com
+sci-physics/ovito,https://github.com/gentoo/guru/tree/dev/sci-physics/ovito,3.10.5,3.15.3,https://gitlab.com/stuko/ovito/tags,strdenis02@gmail.com,https://repology.org/maintainer/strdenis02@gmail.com
 dev-python/pyproject2ebuild,https://github.com/gentoo/guru/tree/dev/dev-python/pyproject2ebuild,0.0.3,0.0.4,https://gitlab.com/oz123/pyproject2ebuild/tags,oz.tiram@gmail.com,https://repology.org/maintainer/oz.tiram@gmail.com
 net-misc/peertube-viewer-rs,https://github.com/gentoo/guru/tree/dev/net-misc/peertube-viewer-rs,1.8.6,1.8.9,https://gitlab.com/peertube-viewer/peertube-viewer-rs/tags,-,-
 net-voip/vvmd,https://github.com/gentoo/guru/tree/dev/net-voip/vvmd,0.8,1.1,https://gitlab.com/kop316/vvmd/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
