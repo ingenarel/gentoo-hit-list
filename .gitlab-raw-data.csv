@@ -1,8 +1,9 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 mpv-plugin/mpv-plugin-xrandr,https://github.com/gentoo/guru/tree/dev/mpv-plugin/mpv-plugin-xrandr,2023.06.19,tags/r2023_06_19,https://gitlab.com/lvml/mpv-plugin-xrandr/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
-app-misc/corectrl,https://github.com/gentoo/guru/tree/dev/app-misc/corectrl,1.5.1,1.5.2,https://gitlab.com/corectrl/corectrl/tags,kostadinshishmanov@protonmail.com,https://repology.org/maintainer/kostadinshishmanov@protonmail.com
 app-misc/ufetch,https://github.com/gentoo/guru/tree/dev/app-misc/ufetch,0.3,0.4,https://gitlab.com/jschx/ufetch/tags,-,-
 app-mobilephone/mobile-config-firefox,https://github.com/gentoo/guru/tree/dev/app-mobilephone/mobile-config-firefox,2.1.0,4.3.2,https://gitlab.com/postmarketOS/mobile-config-firefox/tags,-,-
+sys-apps/coolercontrol,https://github.com/gentoo/guru/tree/dev/sys-apps/coolercontrol,4.1.0,4.2.0,https://gitlab.com/coolercontrol/coolercontrol/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
+sys-apps/coolercontrold,https://github.com/gentoo/guru/tree/dev/sys-apps/coolercontrold,4.1.0,4.2.0,https://gitlab.com/coolercontrol/coolercontrol/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
 gui-libs/libcsys,https://github.com/gentoo/guru/tree/dev/gui-libs/libcsys,5.0.0,5.0.1,https://gitlab.com/cubocore/libcsys/tags,-,-
 gui-libs/libcprime,https://github.com/gentoo/guru/tree/dev/gui-libs/libcprime,5.0.0,5.0.1,https://gitlab.com/cubocore/libcprime/tags,-,-
 net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.20.3,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
