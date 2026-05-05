@@ -34,6 +34,6 @@ gui-apps/coregarage,https://github.com/gentoo/guru/tree/dev/gui-apps/coregarage,
 media-gfx/azpainter,https://github.com/gentoo/guru/tree/dev/media-gfx/azpainter,3.0.12,3.0.12.3,https://gitlab.com/azelpg/azpainter/tags,-,-
 games-util/sdl2-gamepad-mapper,https://github.com/gentoo/guru/tree/dev/games-util/sdl2-gamepad-mapper,0.0.8,0.0.9,https://gitlab.com/ryochan7/sdl2-gamepad-mapper/tags,carana2099@gmail.com,https://repology.org/maintainer/carana2099@gmail.com
 dev-crystal/spectator,https://github.com/gentoo/guru/tree/dev/dev-crystal/spectator,0.12.2,0.12.4,https://gitlab.com/arctic-fox/spectator/tags,cyber+gentoo@sysrq.in,https://repology.org/maintainer/cyber+gentoo@sysrq.in
-dev-libs/xdna-driver,https://github.com/gentoo/guru/tree/dev/dev-libs/xdna-driver,2.21.75,intel/2026-04-30,https://gitlab.com/kernel-firmware/drm-firmware/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
+dev-libs/xdna-driver,https://github.com/gentoo/guru/tree/dev/dev-libs/xdna-driver,2.21.75,amd-2026-05-04,https://gitlab.com/kernel-firmware/drm-firmware/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
 www-servers/hinsightd,https://github.com/gentoo/guru/tree/dev/www-servers/hinsightd,0.9.17,0.9.21,https://gitlab.com/tiotags/hin9/tags,tiotags1@gmail.com,https://repology.org/maintainer/tiotags1@gmail.com
 app-office/pyspread,https://github.com/gentoo/guru/tree/dev/app-office/pyspread,2.4,2.4.5,https://gitlab.com/pyspread/pyspread/tags,-,-
