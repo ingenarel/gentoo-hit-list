@@ -1,6 +1,5 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 www-apps/rimgo,https://github.com/gentoo/guru/tree/dev/www-apps/rimgo,1.2.1,2.0-rc.2,https://codeberg.org/rimgo/rimgo/tags,benoit.dufour@mail.com,https://repology.org/maintainer/benoit.dufour@mail.com
-gui-apps/awww,https://github.com/gentoo/guru/tree/dev/gui-apps/awww,0.11.2,0.12.1,https://codeberg.org/LGFae/awww/tags,-,-
 app-text/komikku,https://github.com/gentoo/guru/tree/dev/app-text/komikku,1.103.0,50.4.0,https://codeberg.org/valos/Komikku/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
 media-gfx/sxot,https://github.com/gentoo/guru/tree/dev/media-gfx/sxot,1.0.0,1.1.0,https://codeberg.org/NRK/sxot/tags,nrk@disroot.org,https://repology.org/maintainer/nrk@disroot.org
 app-admin/oet,https://github.com/gentoo/guru/tree/dev/app-admin/oet,0.1.11,oet-0.1.11,https://codeberg.org/bcsthsc/overlay-emerge-tool/tags,thomas.scholz@protonmail.com,https://repology.org/maintainer/thomas.scholz@protonmail.com
