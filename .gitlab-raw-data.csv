@@ -1,8 +1,6 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 dev-python/pyproject2ebuild,https://github.com/gentoo/guru/tree/dev/dev-python/pyproject2ebuild,0.0.3,0.0.4,https://gitlab.com/oz123/pyproject2ebuild/tags,oz.tiram@gmail.com,https://repology.org/maintainer/oz.tiram@gmail.com
 media-gfx/azpainter,https://github.com/gentoo/guru/tree/dev/media-gfx/azpainter,3.0.12,3.0.12.3,https://gitlab.com/azelpg/azpainter/tags,-,-
-sys-apps/coolercontrol,https://github.com/gentoo/guru/tree/dev/sys-apps/coolercontrol,4.1.0,4.3.1,https://gitlab.com/coolercontrol/coolercontrol/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
-sys-apps/coolercontrold,https://github.com/gentoo/guru/tree/dev/sys-apps/coolercontrold,4.1.0,4.3.1,https://gitlab.com/coolercontrol/coolercontrol/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
 gui-libs/libcsys,https://github.com/gentoo/guru/tree/dev/gui-libs/libcsys,5.0.0,5.0.1,https://gitlab.com/cubocore/libcsys/tags,-,-
 gui-libs/libcprime,https://github.com/gentoo/guru/tree/dev/gui-libs/libcprime,5.0.0,5.0.1,https://gitlab.com/cubocore/libcprime/tags,-,-
 media-video/megapixels,https://github.com/gentoo/guru/tree/dev/media-video/megapixels,1.4.3,1.7.0,https://gitlab.com/postmarketOS/megapixels/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
