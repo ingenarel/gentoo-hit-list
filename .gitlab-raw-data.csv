@@ -10,7 +10,7 @@ dev-crystal/spectator,https://github.com/gentoo/guru/tree/dev/dev-crystal/specta
 gnome-extra/vvmplayer,https://github.com/gentoo/guru/tree/dev/gnome-extra/vvmplayer,1.4,2.6,https://gitlab.com/kop316/vvmplayer/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 app-admin/ananicy-cpp,https://github.com/gentoo/guru/tree/dev/app-admin/ananicy-cpp,1.1.1,1.2.0,https://gitlab.com/ananicy-cpp/ananicy-cpp/tags,-,-
 app-admin/krapplet,https://github.com/gentoo/guru/tree/dev/app-admin/krapplet,0.3.1,0.5.0,https://gitlab.com/hfernh/krapplet/tags,hfern@fernhout.info,https://repology.org/maintainer/hfern@fernhout.info
-dev-libs/xdna-driver,https://github.com/gentoo/guru/tree/dev/dev-libs/xdna-driver,2.21.75,amd-2026-06-01,https://gitlab.com/kernel-firmware/drm-firmware/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
+dev-libs/xdna-driver,https://github.com/gentoo/guru/tree/dev/dev-libs/xdna-driver,2.21.75,amd-2026-06-05,https://gitlab.com/kernel-firmware/drm-firmware/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
 mpv-plugin/mpv-plugin-xrandr,https://github.com/gentoo/guru/tree/dev/mpv-plugin/mpv-plugin-xrandr,2023.06.19,tags/r2023_06_19,https://gitlab.com/lvml/mpv-plugin-xrandr/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
 gui-apps/shikane,https://github.com/gentoo/guru/tree/dev/gui-apps/shikane,1.0.1,1.1.0,https://gitlab.com/w0lff/shikane/tags,truffle074@gmail.com,https://repology.org/maintainer/truffle074@gmail.com
 gui-apps/darkman,https://github.com/gentoo/guru/tree/dev/gui-apps/darkman,2.2.0,2.3.1,https://gitlab.com/WhyNotHugo/darkman/tags,mm1ke@gentoo.org,https://repology.org/maintainer/mm1ke@gentoo.org
