@@ -1,5 +1,6 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 media-gfx/sxot,https://github.com/gentoo/guru/tree/dev/media-gfx/sxot,1.0.0,1.1.0,https://codeberg.org/NRK/sxot/tags,nrk@disroot.org,https://repology.org/maintainer/nrk@disroot.org
+gui-wm/beansprout,https://github.com/gentoo/guru/tree/dev/gui-wm/beansprout,1.0.0,1.1.0,https://codeberg.org/beansprout/beansprout/tags,me@benbuhse.email,https://repology.org/maintainer/me@benbuhse.email
 x11-misc/wallust,https://github.com/gentoo/guru/tree/dev/x11-misc/wallust,3.5.2,4.0.0-alpha,https://codeberg.org/explosion-mental/wallust/tags,colonia_duck@posteo.net,https://repology.org/maintainer/colonia_duck@posteo.net
 net-news/newsraft,https://github.com/gentoo/guru/tree/dev/net-news/newsraft,0.34,newsraft-0.36,https://codeberg.org/newsraft/newsraft/tags,eli.burch@burchbytes.com,https://repology.org/maintainer/eli.burch@burchbytes.com
 app-admin/oet,https://github.com/gentoo/guru/tree/dev/app-admin/oet,0.1.11,oet-0.1.11,https://codeberg.org/bcsthsc/overlay-emerge-tool/tags,thomas.scholz@protonmail.com,https://repology.org/maintainer/thomas.scholz@protonmail.com

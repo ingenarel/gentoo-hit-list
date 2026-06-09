@@ -6,7 +6,6 @@ gui-libs/libcprime,https://github.com/gentoo/guru/tree/dev/gui-libs/libcprime,5.
 media-video/megapixels,https://github.com/gentoo/guru/tree/dev/media-video/megapixels,1.4.3,1.7.0,https://gitlab.com/postmarketOS/megapixels/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 sci-physics/ovito,https://github.com/gentoo/guru/tree/dev/sci-physics/ovito,3.10.5,3.15.4,https://gitlab.com/stuko/ovito/tags,strdenis02@gmail.com,https://repology.org/maintainer/strdenis02@gmail.com
 www-servers/hinsightd,https://github.com/gentoo/guru/tree/dev/www-servers/hinsightd,0.9.17,0.9.21,https://gitlab.com/tiotags/hin9/tags,tiotags1@gmail.com,https://repology.org/maintainer/tiotags1@gmail.com
-dev-crystal/spectator,https://github.com/gentoo/guru/tree/dev/dev-crystal/spectator,0.12.2,0.12.4,https://gitlab.com/arctic-fox/spectator/tags,cyber+gentoo@sysrq.in,https://repology.org/maintainer/cyber+gentoo@sysrq.in
 gnome-extra/vvmplayer,https://github.com/gentoo/guru/tree/dev/gnome-extra/vvmplayer,1.4,2.6,https://gitlab.com/kop316/vvmplayer/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 app-admin/ananicy-cpp,https://github.com/gentoo/guru/tree/dev/app-admin/ananicy-cpp,1.1.1,1.2.0,https://gitlab.com/ananicy-cpp/ananicy-cpp/tags,-,-
 app-admin/krapplet,https://github.com/gentoo/guru/tree/dev/app-admin/krapplet,0.3.1,0.5.0,https://gitlab.com/hfernh/krapplet/tags,hfern@fernhout.info,https://repology.org/maintainer/hfern@fernhout.info
