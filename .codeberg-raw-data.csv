@@ -6,6 +6,6 @@ media-sound/tenacity,https://github.com/gentoo/guru/tree/dev/media-sound/tenacit
 app-misc/mymefetch,https://github.com/gentoo/guru/tree/dev/app-misc/mymefetch,1.3,1.4,https://codeberg.org/MymeType/mymefetch/tags,-,-
 net-misc/gmcapsule,https://github.com/gentoo/guru/tree/dev/net-misc/gmcapsule,0.9.8,0.10.0,https://codeberg.org/skyjake/gmcapsule/tags,cyber+gentoo@sysrq.in,https://repology.org/maintainer/cyber+gentoo@sysrq.in
 media-gfx/sxot,https://github.com/gentoo/guru/tree/dev/media-gfx/sxot,1.0.0,1.1.0,https://codeberg.org/NRK/sxot/tags,nrk@disroot.org,https://repology.org/maintainer/nrk@disroot.org
-dev-util/git-pages-cli,https://github.com/gentoo/guru/tree/dev/dev-util/git-pages-cli,1.8.2,latest,https://codeberg.org/git-pages/git-pages-cli/tags,demize@unstable.systems,https://repology.org/maintainer/demize@unstable.systems
-app-text/komikku,https://github.com/gentoo/guru/tree/dev/app-text/komikku,1.103.0,50.6.0,https://codeberg.org/valos/Komikku/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
+dev-util/git-pages-cli,https://github.com/gentoo/guru/tree/dev/dev-util/git-pages-cli,1.8.2,1.9.0,https://codeberg.org/git-pages/git-pages-cli/tags,demize@unstable.systems,https://repology.org/maintainer/demize@unstable.systems
+app-text/komikku,https://github.com/gentoo/guru/tree/dev/app-text/komikku,1.103.0,50.7.0,https://codeberg.org/valos/Komikku/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
 www-apps/rimgo,https://github.com/gentoo/guru/tree/dev/www-apps/rimgo,1.2.1,2.0-rc.2,https://codeberg.org/rimgo/rimgo/tags,benoit.dufour@mail.com,https://repology.org/maintainer/benoit.dufour@mail.com
