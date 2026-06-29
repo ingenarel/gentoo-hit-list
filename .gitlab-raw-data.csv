@@ -19,5 +19,6 @@ media-gfx/azpainter,https://github.com/gentoo/guru/tree/dev/media-gfx/azpainter,
 sci-physics/ovito,https://github.com/gentoo/guru/tree/dev/sci-physics/ovito,3.10.5,3.15.5,https://gitlab.com/stuko/ovito/tags,strdenis02@gmail.com,https://repology.org/maintainer/strdenis02@gmail.com
 gnome-extra/vvmplayer,https://github.com/gentoo/guru/tree/dev/gnome-extra/vvmplayer,1.4,2.6,https://gitlab.com/kop316/vvmplayer/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 games-rpg/open-adventure,https://github.com/gentoo/guru/tree/dev/games-rpg/open-adventure,1.20,1.21,https://gitlab.com/esr/open-adventure/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
-net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.21.0-beta.2,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
+net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.21.0-beta.3,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
+net-mail/goimapnotify,https://github.com/gentoo/guru/tree/dev/net-mail/goimapnotify,2.5.5,2.5.6,https://gitlab.com/shackra/goimapnotify/tags,gf.devel@pm.me,https://repology.org/maintainer/gf.devel@pm.me
 games-util/sdl2-gamepad-mapper,https://github.com/gentoo/guru/tree/dev/games-util/sdl2-gamepad-mapper,0.0.8,0.0.9,https://gitlab.com/ryochan7/sdl2-gamepad-mapper/tags,carana2099@gmail.com,https://repology.org/maintainer/carana2099@gmail.com
