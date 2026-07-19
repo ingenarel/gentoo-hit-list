@@ -10,4 +10,4 @@ media-gfx/sxot,https://github.com/gentoo/guru/tree/dev/media-gfx/sxot,1.0.0,1.1.
 net-news/newsraft,https://github.com/gentoo/guru/tree/dev/net-news/newsraft,0.34,newsraft-0.36,https://codeberg.org/newsraft/newsraft/tags,eli.burch@burchbytes.com,https://repology.org/maintainer/eli.burch@burchbytes.com
 www-apps/rimgo,https://github.com/gentoo/guru/tree/dev/www-apps/rimgo,1.2.1,2.0-rc.2,https://codeberg.org/rimgo/rimgo/tags,benoit.dufour@mail.com,https://repology.org/maintainer/benoit.dufour@mail.com
 www-apps/snac,https://github.com/gentoo/guru/tree/dev/www-apps/snac,2.92,2.93,https://codeberg.org/grunfink/snac2/tags,rose@pinkro.se,https://repology.org/maintainer/rose@pinkro.se
-www-apps/forgejo,https://github.com/gentoo/guru/tree/dev/www-apps/forgejo,15.0.3,16.0.0,https://codeberg.org/forgejo/forgejo/tags,artemis@artemis.sh,https://repology.org/maintainer/artemis@artemis.sh
+www-apps/forgejo,https://github.com/gentoo/guru/tree/dev/www-apps/forgejo,15.0.5,16.0.0,https://codeberg.org/forgejo/forgejo/tags,artemis@artemis.sh,https://repology.org/maintainer/artemis@artemis.sh
