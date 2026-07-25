@@ -1,0 +1,11 @@
+package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
+net-client/offpunk,git@git.gentoo.org:repo/proj/guru/tree/dev/net-client/offpunk,3.0,v3.2,https://git.sr.ht/~lioploum/offpunk/refs,-,-
+www-client/chawan,git@git.gentoo.org:repo/proj/guru/tree/dev/www-client/chawan,0.4.3,v0.4.4,https://git.sr.ht/~bptato/chawan/refs,ingenarel_neojesus@disroot.org,https://repology.org/maintainer/ingenarel_neojesus@disroot.org
+dev-util/hut,git@git.gentoo.org:repo/proj/guru/tree/dev/dev-util/hut,0.7.0,v0.8.0,https://git.sr.ht/~xenrox/hut/refs,code@nigh.one,https://repology.org/maintainer/code@nigh.one
+gui-apps/wlopm,git@git.gentoo.org:repo/proj/guru/tree/dev/gui-apps/wlopm,1.0.0,v1.0.0,https://git.sr.ht/~leon_plickat/wlopm/refs,me@benbuhse.email,https://repology.org/maintainer/me@benbuhse.email
+gui-apps/lswt,git@git.gentoo.org:repo/proj/guru/tree/dev/gui-apps/lswt,2.0.0,v2.0.0,https://git.sr.ht/~leon_plickat/lswt/refs,me@benbuhse.email,https://repology.org/maintainer/me@benbuhse.email
+gui-apps/swayr,git@git.gentoo.org:repo/proj/guru/tree/dev/gui-apps/swayr,0.28.2,swayr-0.28.2,https://git.sr.ht/~tsdh/swayr/refs,nicolas.parlant@parhuet.fr,https://repology.org/maintainer/nicolas.parlant@parhuet.fr
+gui-apps/swayrbar,git@git.gentoo.org:repo/proj/guru/tree/dev/gui-apps/swayrbar,0.5.0,swayr-0.28.2,https://git.sr.ht/~tsdh/swayr/refs,nicolas.parlant@parhuet.fr,https://repology.org/maintainer/nicolas.parlant@parhuet.fr
+gui-apps/wayidle,git@git.gentoo.org:repo/proj/guru/tree/dev/gui-apps/wayidle,1.0.1,v1.0.1,https://git.sr.ht/~whynothugo/wayidle/refs,kupravagoodman@proton.me,https://repology.org/maintainer/kupravagoodman@proton.me
+app-misc/chayang,git@git.gentoo.org:repo/proj/guru/tree/dev/app-misc/chayang,0.1.0,v0.1.0,https://git.sr.ht/~emersion/chayang/refs,m@matous.dev,https://repology.org/maintainer/m@matous.dev
+www-apps/mycorrhiza,git@git.gentoo.org:repo/proj/guru/tree/dev/www-apps/mycorrhiza,1.15.1,v1.15.1,https://git.sr.ht/~bouncepaw/mycorrhiza/refs,bratishkaerik@landless-city.net,https://repology.org/maintainer/bratishkaerik@landless-city.net

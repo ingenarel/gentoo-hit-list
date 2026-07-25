@@ -26,6 +26,7 @@ while IFS='' read -r line; do
         "$scriptDir/checkgithubfiles.sh" "$scriptDir/$repoName" &
         "$scriptDir/checkgitlabfiles.sh" "$scriptDir/$repoName" &
         "$scriptDir/checkcodebergfiles.sh" "$scriptDir/$repoName" &
+        "$scriptDir/checksourcehutfiles.sh" "$scriptDir/$repoName" &
     }
 done < "$scriptDir/config"
 
