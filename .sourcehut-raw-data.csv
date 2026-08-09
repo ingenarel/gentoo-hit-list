@@ -5,7 +5,8 @@ gui-apps/wayidle,https://github.com/gentoo/guru/tree/dev/gui-apps/wayidle,1.0.1,
 gui-apps/wlopm,https://github.com/gentoo/guru/tree/dev/gui-apps/wlopm,1.0.0,v1.0.0,https://git.sr.ht/~leon_plickat/wlopm/refs,me@benbuhse.email,https://repology.org/maintainer/me@benbuhse.email
 gui-apps/swayrbar,https://github.com/gentoo/guru/tree/dev/gui-apps/swayrbar,0.5.0,swayr-0.28.2,https://git.sr.ht/~tsdh/swayr/refs,nicolas.parlant@parhuet.fr,https://repology.org/maintainer/nicolas.parlant@parhuet.fr
 gui-apps/lswt,https://github.com/gentoo/guru/tree/dev/gui-apps/lswt,2.0.0,v2.0.0,https://git.sr.ht/~leon_plickat/lswt/refs,me@benbuhse.email,https://repology.org/maintainer/me@benbuhse.email
-net-client/offpunk,https://github.com/gentoo/guru/tree/dev/net-client/offpunk,3.0,v3.2,https://git.sr.ht/~lioploum/offpunk/refs,-,-
+net-client/offpunk,https://github.com/gentoo/guru/tree/dev/net-client/offpunk,3.2,v3.2,https://git.sr.ht/~lioploum/offpunk/refs,-,-
 www-apps/mycorrhiza,https://github.com/gentoo/guru/tree/dev/www-apps/mycorrhiza,1.15.1,v1.15.1,https://git.sr.ht/~bouncepaw/mycorrhiza/refs,bratishkaerik@landless-city.net,https://repology.org/maintainer/bratishkaerik@landless-city.net
 dev-util/hut,https://github.com/gentoo/guru/tree/dev/dev-util/hut,0.7.0,v0.8.0,https://git.sr.ht/~xenrox/hut/refs,code@nigh.one,https://repology.org/maintainer/code@nigh.one
+net-news/comitium,https://github.com/gentoo/guru/tree/dev/net-news/comitium,1.8.2,v1.8.2,https://git.sr.ht/~nytpu/comitium/refs,-,-
 app-misc/chayang,https://github.com/gentoo/guru/tree/dev/app-misc/chayang,0.1.0,v0.1.0,https://git.sr.ht/~emersion/chayang/refs,m@matous.dev,https://repology.org/maintainer/m@matous.dev
