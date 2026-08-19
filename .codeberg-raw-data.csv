@@ -1,5 +1,5 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
-app-text/komikku,https://github.com/gentoo/guru/tree/dev/app-text/komikku,1.103.0,50.11.0,https://codeberg.org/valos/Komikku/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
+app-text/komikku,https://github.com/gentoo/guru/tree/dev/app-text/komikku,1.103.0,50.12.1,https://codeberg.org/valos/Komikku/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
 x11-misc/wallust,https://github.com/gentoo/guru/tree/dev/x11-misc/wallust,3.5.2,4.0.0-alpha,https://codeberg.org/explosion-mental/wallust/tags,colonia_duck@posteo.net,https://repology.org/maintainer/colonia_duck@posteo.net
 app-admin/oet,https://github.com/gentoo/guru/tree/dev/app-admin/oet,0.1.11,oet-0.1.11,https://codeberg.org/bcsthsc/overlay-emerge-tool/tags,thomas.scholz@protonmail.com,https://repology.org/maintainer/thomas.scholz@protonmail.com
 www-apps/snac,https://github.com/gentoo/guru/tree/dev/www-apps/snac,2.93,2.94,https://codeberg.org/grunfink/snac2/tags,rose@pinkro.se,https://repology.org/maintainer/rose@pinkro.se

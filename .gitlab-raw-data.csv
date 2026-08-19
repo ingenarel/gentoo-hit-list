@@ -11,6 +11,7 @@ gui-apps/shikane,https://github.com/gentoo/guru/tree/dev/gui-apps/shikane,1.0.1,
 sys-apps/mission-center,https://github.com/gentoo/guru/tree/dev/sys-apps/mission-center,1.1.0,1.2.0,https://gitlab.com/mission-center-devs/mission-center/tags,-,-
 net-voip/vvmd,https://github.com/gentoo/guru/tree/dev/net-voip/vvmd,0.8,1.1,https://gitlab.com/kop316/vvmd/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 www-servers/hinsightd,https://github.com/gentoo/guru/tree/dev/www-servers/hinsightd,0.9.17,0.9.21,https://gitlab.com/tiotags/hin9/tags,tiotags1@gmail.com,https://repology.org/maintainer/tiotags1@gmail.com
+net-mail/goimapnotify,https://github.com/gentoo/guru/tree/dev/net-mail/goimapnotify,2.5.7,2.5.8,https://gitlab.com/shackra/goimapnotify/tags,gf.devel@pm.me,https://repology.org/maintainer/gf.devel@pm.me
 mpv-plugin/mpv-plugin-xrandr,https://github.com/gentoo/guru/tree/dev/mpv-plugin/mpv-plugin-xrandr,2023.06.19,tags/r2023_06_19,https://gitlab.com/lvml/mpv-plugin-xrandr/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
 net-misc/peertube-viewer-rs,https://github.com/gentoo/guru/tree/dev/net-misc/peertube-viewer-rs,1.8.6,1.8.10,https://gitlab.com/peertube-viewer/peertube-viewer-rs/tags,-,-
 app-office/pyspread,https://github.com/gentoo/guru/tree/dev/app-office/pyspread,2.4,2.4.5,https://gitlab.com/pyspread/pyspread/tags,-,-
