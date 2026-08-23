@@ -22,5 +22,5 @@ gui-libs/libcsys,https://github.com/gentoo/guru/tree/dev/gui-libs/libcsys,5.0.0,
 media-gfx/azpainter,https://github.com/gentoo/guru/tree/dev/media-gfx/azpainter,3.0.12,3.0.12.3,https://gitlab.com/azelpg/azpainter/tags,-,-
 app-misc/ufetch,https://github.com/gentoo/guru/tree/dev/app-misc/ufetch,0.3,0.4,https://gitlab.com/jschx/ufetch/tags,-,-
 app-misc/metadata-cleaner,https://github.com/gentoo/guru/tree/dev/app-misc/metadata-cleaner,4.0.0,4.0.1,https://gitlab.com/metadatacleaner/metadatacleaner/tags,gasc@eurecom.fr,https://repology.org/maintainer/gasc@eurecom.fr
-dev-libs/xdna-driver,https://github.com/gentoo/guru/tree/dev/dev-libs/xdna-driver,2.21.75,amd-2026-08-17,https://gitlab.com/kernel-firmware/drm-firmware/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
+dev-libs/xdna-driver,https://github.com/gentoo/guru/tree/dev/dev-libs/xdna-driver,2.21.75,amd-2026-08-21,https://gitlab.com/kernel-firmware/drm-firmware/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
 dev-util/buildbox,https://github.com/gentoo/guru/tree/dev/dev-util/buildbox,1.4.13,1.4.18,https://gitlab.com/BuildGrid/buildbox/buildbox/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
