@@ -1,7 +1,7 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 gui-apps/wayidle,https://github.com/gentoo/guru/tree/dev/gui-apps/wayidle,1.0.1,v1.0.1,https://git.sr.ht/~whynothugo/wayidle/refs,kupravagoodman@proton.me,https://repology.org/maintainer/kupravagoodman@proton.me
 gui-apps/wlopm,https://github.com/gentoo/guru/tree/dev/gui-apps/wlopm,1.0.0,v1.0.0,https://git.sr.ht/~leon_plickat/wlopm/refs,me@benbuhse.email,https://repology.org/maintainer/me@benbuhse.email
-gui-apps/swayr,https://github.com/gentoo/guru/tree/dev/gui-apps/swayr,0.28.2,swayr-0.28.3,https://git.sr.ht/~tsdh/swayr/refs,nicolas.parlant@parhuet.fr,https://repology.org/maintainer/nicolas.parlant@parhuet.fr
+gui-apps/swayr,https://github.com/gentoo/guru/tree/dev/gui-apps/swayr,0.28.3,swayr-0.28.3,https://git.sr.ht/~tsdh/swayr/refs,nicolas.parlant@parhuet.fr,https://repology.org/maintainer/nicolas.parlant@parhuet.fr
 gui-apps/lswt,https://github.com/gentoo/guru/tree/dev/gui-apps/lswt,2.0.0,v2.0.0,https://git.sr.ht/~leon_plickat/lswt/refs,me@benbuhse.email,https://repology.org/maintainer/me@benbuhse.email
 gui-apps/swayrbar,https://github.com/gentoo/guru/tree/dev/gui-apps/swayrbar,0.5.0,swayr-0.28.3,https://git.sr.ht/~tsdh/swayr/refs,nicolas.parlant@parhuet.fr,https://repology.org/maintainer/nicolas.parlant@parhuet.fr
 www-apps/mycorrhiza,https://github.com/gentoo/guru/tree/dev/www-apps/mycorrhiza,1.15.1,v1.15.1,https://git.sr.ht/~bouncepaw/mycorrhiza/refs,bratishkaerik@landless-city.net,https://repology.org/maintainer/bratishkaerik@landless-city.net
