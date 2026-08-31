@@ -1,6 +1,7 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 gnome-extra/vvmplayer,https://github.com/gentoo/guru/tree/dev/gnome-extra/vvmplayer,1.4,2.6,https://gitlab.com/kop316/vvmplayer/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 media-video/megapixels,https://github.com/gentoo/guru/tree/dev/media-video/megapixels,1.4.3,1.7.0,https://gitlab.com/postmarketOS/megapixels/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
+dev-python/kicad-python,https://github.com/gentoo/guru/tree/dev/dev-python/kicad-python,0.7.1,0.8.0,https://gitlab.com/kicad/code/kicad-python/tags,vowstar@gmail.com,https://repology.org/maintainer/vowstar@gmail.com
 dev-python/pyproject2ebuild,https://github.com/gentoo/guru/tree/dev/dev-python/pyproject2ebuild,0.0.3,0.0.4,https://gitlab.com/oz123/pyproject2ebuild/tags,oz.tiram@gmail.com,https://repology.org/maintainer/oz.tiram@gmail.com
 sci-physics/ovito,https://github.com/gentoo/guru/tree/dev/sci-physics/ovito,3.10.5,3.16.0,https://gitlab.com/stuko/ovito/tags,strdenis02@gmail.com,https://repology.org/maintainer/strdenis02@gmail.com
 games-util/sdl2-gamepad-mapper,https://github.com/gentoo/guru/tree/dev/games-util/sdl2-gamepad-mapper,0.0.8,0.0.9,https://gitlab.com/ryochan7/sdl2-gamepad-mapper/tags,carana2099@gmail.com,https://repology.org/maintainer/carana2099@gmail.com
