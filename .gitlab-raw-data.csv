@@ -12,6 +12,7 @@ gui-apps/shikane,https://github.com/gentoo/guru/tree/dev/gui-apps/shikane,1.0.1,
 sys-apps/mission-center,https://github.com/gentoo/guru/tree/dev/sys-apps/mission-center,1.1.0,1.2.0,https://gitlab.com/mission-center-devs/mission-center/tags,-,-
 net-voip/vvmd,https://github.com/gentoo/guru/tree/dev/net-voip/vvmd,0.8,1.1,https://gitlab.com/kop316/vvmd/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 www-servers/hinsightd,https://github.com/gentoo/guru/tree/dev/www-servers/hinsightd,0.9.17,0.9.21,https://gitlab.com/tiotags/hin9/tags,tiotags1@gmail.com,https://repology.org/maintainer/tiotags1@gmail.com
+dev-build/buildstream-plugins-community,https://github.com/gentoo/guru/tree/dev/dev-build/buildstream-plugins-community,2.3.1,2.3.2,https://gitlab.com/BuildStream/buildstream-plugins-community/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
 mpv-plugin/mpv-plugin-xrandr,https://github.com/gentoo/guru/tree/dev/mpv-plugin/mpv-plugin-xrandr,2023.06.19,tags/r2023_06_19,https://gitlab.com/lvml/mpv-plugin-xrandr/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
 net-misc/peertube-viewer-rs,https://github.com/gentoo/guru/tree/dev/net-misc/peertube-viewer-rs,1.8.6,1.8.10,https://gitlab.com/peertube-viewer/peertube-viewer-rs/tags,-,-
 app-office/pyspread,https://github.com/gentoo/guru/tree/dev/app-office/pyspread,2.4,2.4.5,https://gitlab.com/pyspread/pyspread/tags,-,-
@@ -25,4 +26,4 @@ media-gfx/azpainter,https://github.com/gentoo/guru/tree/dev/media-gfx/azpainter,
 app-misc/ufetch,https://github.com/gentoo/guru/tree/dev/app-misc/ufetch,0.3,0.4,https://gitlab.com/jschx/ufetch/tags,-,-
 app-misc/metadata-cleaner,https://github.com/gentoo/guru/tree/dev/app-misc/metadata-cleaner,4.0.0,4.0.1,https://gitlab.com/metadatacleaner/metadatacleaner/tags,gasc@eurecom.fr,https://repology.org/maintainer/gasc@eurecom.fr
 dev-libs/xdna-driver,https://github.com/gentoo/guru/tree/dev/dev-libs/xdna-driver,2.21.75,amd-2026-08-28,https://gitlab.com/kernel-firmware/drm-firmware/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
-dev-util/buildbox,https://github.com/gentoo/guru/tree/dev/dev-util/buildbox,1.4.13,1.4.21,https://gitlab.com/BuildGrid/buildbox/buildbox/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
+dev-util/buildbox,https://github.com/gentoo/guru/tree/dev/dev-util/buildbox,1.4.13,1.4.22,https://gitlab.com/BuildGrid/buildbox/buildbox/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
