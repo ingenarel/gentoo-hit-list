@@ -23,6 +23,8 @@ net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.22.2,
 app-admin/ananicy-cpp,https://github.com/gentoo/guru/tree/dev/app-admin/ananicy-cpp,1.1.1,1.2.0,https://gitlab.com/ananicy-cpp/ananicy-cpp/tags,-,-
 app-admin/krapplet,https://github.com/gentoo/guru/tree/dev/app-admin/krapplet,0.3.1,0.5.0,https://gitlab.com/hfernh/krapplet/tags,hfern@fernhout.info,https://repology.org/maintainer/hfern@fernhout.info
 mpv-plugin/mpv-plugin-xrandr,https://github.com/gentoo/guru/tree/dev/mpv-plugin/mpv-plugin-xrandr,2023.06.19,tags/r2023_06_19,https://gitlab.com/lvml/mpv-plugin-xrandr/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
+sys-apps/coolercontrold,https://github.com/gentoo/guru/tree/dev/sys-apps/coolercontrold,4.3.1,5.0.0,https://gitlab.com/coolercontrol/coolercontrol/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
+sys-apps/coolercontrol,https://github.com/gentoo/guru/tree/dev/sys-apps/coolercontrol,4.3.1,5.0.0,https://gitlab.com/coolercontrol/coolercontrol/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
 sys-apps/mission-center,https://github.com/gentoo/guru/tree/dev/sys-apps/mission-center,1.1.0,1.2.0,https://gitlab.com/mission-center-devs/mission-center/tags,-,-
 app-misc/ufetch,https://github.com/gentoo/guru/tree/dev/app-misc/ufetch,0.3,0.4,https://gitlab.com/jschx/ufetch/tags,-,-
 app-misc/metadata-cleaner,https://github.com/gentoo/guru/tree/dev/app-misc/metadata-cleaner,4.0.0,4.0.1,https://gitlab.com/metadatacleaner/metadatacleaner/tags,gasc@eurecom.fr,https://repology.org/maintainer/gasc@eurecom.fr
