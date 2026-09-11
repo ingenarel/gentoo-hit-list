@@ -3,8 +3,9 @@ media-gfx/sxot,https://github.com/gentoo/guru/tree/dev/media-gfx/sxot,1.0.0,1.1.
 gui-apps/fuzzel,https://github.com/gentoo/guru/tree/dev/gui-apps/fuzzel,1.14.1,1.15.0,https://codeberg.org/dnkl/fuzzel/tags,freijon@pm.me,https://repology.org/maintainer/freijon@pm.me
 www-apps/snac,https://github.com/gentoo/guru/tree/dev/www-apps/snac,2.93,2.95,https://codeberg.org/grunfink/snac2/tags,rose@pinkro.se,https://repology.org/maintainer/rose@pinkro.se
 www-apps/rimgo,https://github.com/gentoo/guru/tree/dev/www-apps/rimgo,1.2.1,2.0-rc.3,https://codeberg.org/rimgo/rimgo/tags,benoit.dufour@mail.com,https://repology.org/maintainer/benoit.dufour@mail.com
-net-news/newsraft,https://github.com/gentoo/guru/tree/dev/net-news/newsraft,0.34,newsraft-0.37,https://codeberg.org/newsraft/newsraft/tags,eli.burch@burchbytes.com,https://repology.org/maintainer/eli.burch@burchbytes.com
-app-text/komikku,https://github.com/gentoo/guru/tree/dev/app-text/komikku,1.103.0,50.14.0,https://codeberg.org/valos/Komikku/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
+www-apps/forgejo,https://github.com/gentoo/guru/tree/dev/www-apps/forgejo,16.0.3,16.0.4,https://codeberg.org/forgejo/forgejo/tags,artemis@artemis.sh,https://repology.org/maintainer/artemis@artemis.sh
+net-news/newsraft,https://github.com/gentoo/guru/tree/dev/net-news/newsraft,0.37,newsraft-0.37,https://codeberg.org/newsraft/newsraft/tags,contact@hacktivis.me,https://repology.org/maintainer/contact@hacktivis.me
+app-text/komikku,https://github.com/gentoo/guru/tree/dev/app-text/komikku,1.103.0,50.15.0,https://codeberg.org/valos/Komikku/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
 dev-util/git-pages-cli,https://github.com/gentoo/guru/tree/dev/dev-util/git-pages-cli,1.8.2,latest,https://codeberg.org/git-pages/git-pages-cli/tags,demize@unstable.systems,https://repology.org/maintainer/demize@unstable.systems
 x11-misc/wallust,https://github.com/gentoo/guru/tree/dev/x11-misc/wallust,3.5.2,4.0.0-alpha,https://codeberg.org/explosion-mental/wallust/tags,colonia_duck@posteo.net,https://repology.org/maintainer/colonia_duck@posteo.net
 x11-misc/ly,https://github.com/gentoo/guru/tree/dev/x11-misc/ly,1.4.1,1.5.0-rc1,https://codeberg.org/fairyglade/ly/tags,saigon-tech@tuta.io,https://repology.org/maintainer/saigon-tech@tuta.io
