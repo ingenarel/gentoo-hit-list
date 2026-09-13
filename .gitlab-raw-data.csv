@@ -1,7 +1,6 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 dev-build/buildstream-plugins-community,https://github.com/gentoo/guru/tree/dev/dev-build/buildstream-plugins-community,2.3.1,2.3.3,https://gitlab.com/BuildStream/buildstream-plugins-community/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
 games-util/sdl2-gamepad-mapper,https://github.com/gentoo/guru/tree/dev/games-util/sdl2-gamepad-mapper,0.0.8,0.0.9,https://gitlab.com/ryochan7/sdl2-gamepad-mapper/tags,carana2099@gmail.com,https://repology.org/maintainer/carana2099@gmail.com
-dev-python/kicad-python,https://github.com/gentoo/guru/tree/dev/dev-python/kicad-python,0.7.1,0.8.0,https://gitlab.com/kicad/code/kicad-python/tags,vowstar@gmail.com,https://repology.org/maintainer/vowstar@gmail.com
 dev-python/pyproject2ebuild,https://github.com/gentoo/guru/tree/dev/dev-python/pyproject2ebuild,0.0.3,0.0.4,https://gitlab.com/oz123/pyproject2ebuild/tags,oz.tiram@gmail.com,https://repology.org/maintainer/oz.tiram@gmail.com
 media-gfx/azpainter,https://github.com/gentoo/guru/tree/dev/media-gfx/azpainter,3.0.12,3.0.12.3,https://gitlab.com/azelpg/azpainter/tags,-,-
 gui-apps/shikane,https://github.com/gentoo/guru/tree/dev/gui-apps/shikane,1.0.1,1.1.1,https://gitlab.com/w0lff/shikane/tags,truffle074@gmail.com,https://repology.org/maintainer/truffle074@gmail.com
@@ -13,10 +12,10 @@ gnome-extra/vvmplayer,https://github.com/gentoo/guru/tree/dev/gnome-extra/vvmpla
 gui-libs/libcprime,https://github.com/gentoo/guru/tree/dev/gui-libs/libcprime,5.0.0,5.0.1,https://gitlab.com/cubocore/libcprime/tags,-,-
 gui-libs/libcsys,https://github.com/gentoo/guru/tree/dev/gui-libs/libcsys,5.0.0,5.0.1,https://gitlab.com/cubocore/libcsys/tags,-,-
 app-office/pyspread,https://github.com/gentoo/guru/tree/dev/app-office/pyspread,2.4,2.4.5,https://gitlab.com/pyspread/pyspread/tags,-,-
-dev-libs/xdna-driver,https://github.com/gentoo/guru/tree/dev/dev-libs/xdna-driver,2.21.75,amd-2026-09-04,https://gitlab.com/kernel-firmware/drm-firmware/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
+dev-libs/xdna-driver,https://github.com/gentoo/guru/tree/dev/dev-libs/xdna-driver,2.21.75,amd-2026-09-11,https://gitlab.com/kernel-firmware/drm-firmware/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
 net-misc/peertube-viewer-rs,https://github.com/gentoo/guru/tree/dev/net-misc/peertube-viewer-rs,1.8.6,1.8.10,https://gitlab.com/peertube-viewer/peertube-viewer-rs/tags,-,-
 dev-util/buildbox,https://github.com/gentoo/guru/tree/dev/dev-util/buildbox,1.4.13,1.4.24,https://gitlab.com/BuildGrid/buildbox/buildbox/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
-sci-physics/ovito,https://github.com/gentoo/guru/tree/dev/sci-physics/ovito,3.10.5,3.16.0,https://gitlab.com/stuko/ovito/tags,strdenis02@gmail.com,https://repology.org/maintainer/strdenis02@gmail.com
+sci-physics/ovito,https://github.com/gentoo/guru/tree/dev/sci-physics/ovito,3.10.5,3.16.1,https://gitlab.com/stuko/ovito/tags,strdenis02@gmail.com,https://repology.org/maintainer/strdenis02@gmail.com
 app-mobilephone/mobile-config-firefox,https://github.com/gentoo/guru/tree/dev/app-mobilephone/mobile-config-firefox,2.1.0,4.3.2,https://gitlab.com/postmarketOS/mobile-config-firefox/tags,-,-
 net-im/conduit,https://github.com/gentoo/guru/tree/dev/net-im/conduit,0.10.12,0.10.13,https://gitlab.com/famedly/conduit/tags,julien@jroy.ca,https://repology.org/maintainer/julien@jroy.ca
 net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.22.2,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
