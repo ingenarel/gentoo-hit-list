@@ -21,7 +21,7 @@ app-office/pyspread,https://github.com/gentoo/guru/tree/dev/app-office/pyspread,
 media-gfx/azpainter,https://github.com/gentoo/guru/tree/dev/media-gfx/azpainter,3.0.12,3.0.12.3,https://gitlab.com/azelpg/azpainter/tags,-,-
 app-admin/krapplet,https://github.com/gentoo/guru/tree/dev/app-admin/krapplet,0.3.1,0.5.0,https://gitlab.com/hfernh/krapplet/tags,hfern@fernhout.info,https://repology.org/maintainer/hfern@fernhout.info
 app-admin/ananicy-cpp,https://github.com/gentoo/guru/tree/dev/app-admin/ananicy-cpp,1.1.1,1.2.0,https://gitlab.com/ananicy-cpp/ananicy-cpp/tags,-,-
-net-im/conduit,https://github.com/gentoo/guru/tree/dev/net-im/conduit,0.10.12,0.10.13,https://gitlab.com/famedly/conduit/tags,julien@jroy.ca,https://repology.org/maintainer/julien@jroy.ca
+net-im/conduit,https://github.com/gentoo/guru/tree/dev/net-im/conduit,0.10.12,0.10.14,https://gitlab.com/famedly/conduit/tags,julien@jroy.ca,https://repology.org/maintainer/julien@jroy.ca
 net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.22.2,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
 sys-apps/mission-center,https://github.com/gentoo/guru/tree/dev/sys-apps/mission-center,1.1.0,1.2.0,https://gitlab.com/mission-center-devs/mission-center/tags,-,-
 sys-apps/coolercontrol,https://github.com/gentoo/guru/tree/dev/sys-apps/coolercontrol,4.3.1,5.0.1,https://gitlab.com/coolercontrol/coolercontrol/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
