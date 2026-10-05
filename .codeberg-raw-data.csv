@@ -1,6 +1,6 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 x11-misc/wallust,https://github.com/gentoo/guru/tree/dev/x11-misc/wallust,3.5.2,4.1.0-alpha,https://codeberg.org/explosion-mental/wallust/tags,colonia_duck@posteo.net,https://repology.org/maintainer/colonia_duck@posteo.net
-x11-misc/ly,https://github.com/gentoo/guru/tree/dev/x11-misc/ly,1.4.1,1.5.0-rc1,https://codeberg.org/fairyglade/ly/tags,saigon-tech@tuta.io,https://repology.org/maintainer/saigon-tech@tuta.io
+x11-misc/ly,https://github.com/gentoo/guru/tree/dev/x11-misc/ly,1.4.1,1.5.0,https://codeberg.org/fairyglade/ly/tags,saigon-tech@tuta.io,https://repology.org/maintainer/saigon-tech@tuta.io
 dev-util/git-pages-cli,https://github.com/gentoo/guru/tree/dev/dev-util/git-pages-cli,1.10.1,latest,https://codeberg.org/git-pages/git-pages-cli/tags,demize@unstable.systems,https://repology.org/maintainer/demize@unstable.systems
 gui-apps/fuzzel,https://github.com/gentoo/guru/tree/dev/gui-apps/fuzzel,1.14.1,1.15.0,https://codeberg.org/dnkl/fuzzel/tags,freijon@pm.me,https://repology.org/maintainer/freijon@pm.me
 www-apps/forgejo,https://github.com/gentoo/guru/tree/dev/www-apps/forgejo,16.0.5,18.0.0-dev,https://codeberg.org/forgejo/forgejo/tags,artemis@artemis.sh,https://repology.org/maintainer/artemis@artemis.sh
