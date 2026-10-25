@@ -1,6 +1,6 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 media-video/megapixels,https://github.com/gentoo/guru/tree/dev/media-video/megapixels,1.4.3,1.7.0,https://gitlab.com/postmarketOS/megapixels/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
-dev-util/buildbox,https://github.com/gentoo/guru/tree/dev/dev-util/buildbox,1.4.13,1.4.29,https://gitlab.com/BuildGrid/buildbox/buildbox/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
+dev-util/buildbox,https://github.com/gentoo/guru/tree/dev/dev-util/buildbox,1.4.13,1.4.30,https://gitlab.com/BuildGrid/buildbox/buildbox/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
 games-util/sdl2-gamepad-mapper,https://github.com/gentoo/guru/tree/dev/games-util/sdl2-gamepad-mapper,0.0.8,0.0.9,https://gitlab.com/ryochan7/sdl2-gamepad-mapper/tags,carana2099@gmail.com,https://repology.org/maintainer/carana2099@gmail.com
 app-mobilephone/mobile-config-firefox,https://github.com/gentoo/guru/tree/dev/app-mobilephone/mobile-config-firefox,2.1.0,4.3.2,https://gitlab.com/postmarketOS/mobile-config-firefox/tags,-,-
 net-voip/vvmd,https://github.com/gentoo/guru/tree/dev/net-voip/vvmd,0.8,1.1,https://gitlab.com/kop316/vvmd/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
