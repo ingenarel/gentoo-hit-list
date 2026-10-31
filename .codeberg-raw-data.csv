@@ -9,4 +9,5 @@ x11-misc/wallust,https://github.com/gentoo/guru/tree/dev/x11-misc/wallust,3.5.2,
 net-misc/gmcapsule,https://github.com/gentoo/guru/tree/dev/net-misc/gmcapsule,0.10.0,0.11.0,https://codeberg.org/skyjake/gmcapsule/tags,cyber+gentoo@sysrq.in,https://repology.org/maintainer/cyber+gentoo@sysrq.in
 dev-util/git-pages-cli,https://github.com/gentoo/guru/tree/dev/dev-util/git-pages-cli,1.10.1,latest,https://codeberg.org/git-pages/git-pages-cli/tags,demize@unstable.systems,https://repology.org/maintainer/demize@unstable.systems
 www-apps/rimgo,https://github.com/gentoo/guru/tree/dev/www-apps/rimgo,1.2.1,2.0-rc.3,https://codeberg.org/rimgo/rimgo/tags,benoit.dufour@mail.com,https://repology.org/maintainer/benoit.dufour@mail.com
+www-apps/snac,https://github.com/gentoo/guru/tree/dev/www-apps/snac,2.96,2.97,https://codeberg.org/grunfink/snac2/tags,rose@pinkro.se,https://repology.org/maintainer/rose@pinkro.se
 app-admin/oet,https://github.com/gentoo/guru/tree/dev/app-admin/oet,0.1.11,oet-0.1.11,https://codeberg.org/bcsthsc/overlay-emerge-tool/tags,thomas.scholz@protonmail.com,https://repology.org/maintainer/thomas.scholz@protonmail.com
