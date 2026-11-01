@@ -43,9 +43,9 @@ echo "$readMeData" | while IFS='' read -r line; do
             tableHasStarted=true
             printf "%s\n" "$line" >> "$scriptDir/README.md"
             while IFS='' read -r line; do
-                repoName="$(echo "$line" | awk '{print $1}')"
+                repoName="$(echo "${line}" | awk '{print $1}')"
                 repoBranch="$(echo "$line" | awk '{print $2}')"
-                repoLink="$(echo "$line" | sed -n -E 's/.*\s+(\S+)$/\1/p')"
+                repoLink="$(echo "${line%%.git}" | awk '{print $3}' )"
                 echo "<details>"
                 echo "    <summary><a href=\"$repoLink/tree/$repoBranch\">$repoName $repoBranch branch</a></summary>"
                 echo ""
