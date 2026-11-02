@@ -8,12 +8,13 @@ MAX_JOBS=10
 generate_line(){
     local last_commit="$(
             {
-                git -C "$repo_path" --no-pager log --format=format:'%at,%ar,%H,%ae%n' --max-count 1 --author "$1"
-                git -C "$repo_path" --no-pager log --format=format:'%at,%ar,%H,%ae%n' --max-count 1 --committer "$1"
+                git -C "$repo_path" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --author "$1"
+                git -C "$repo_path" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --committer "$1"
             } | sort | tail -n1
         )"
     if [ -n "${last_commit}" ]; then
-        echo "$last_commit"
+        last_commit="${last_commit//,/}"
+        echo "${last_commit//|/,}"
     else
         echo "0,0,NO COMMIT FOUND BY THIS EMAIL,$1"
     fi
