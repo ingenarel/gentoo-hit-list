@@ -20,6 +20,8 @@ generate_line(){
     fi
 }
 
+echo "unix timestamp,relative time,commit hash,email" > ./.maintainer-stats.csv
+
 while IFS='' read -r line; do
     repo_path="$(echo "${line}" | awk '{print $1}' | xargs realpath )"
     find . -name 'metadata.xml' -exec dirname {} \; | while read -r line; do
@@ -37,4 +39,4 @@ while IFS='' read -r line; do
     done |
     sort |
     uniq
-done < "$scriptDir/config" > .maintainer-stats.csv
+done < "$scriptDir/config" >> ./.maintainer-stats.csv
