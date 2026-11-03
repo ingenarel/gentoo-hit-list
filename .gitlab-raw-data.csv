@@ -1,6 +1,6 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 dev-libs/xdna-driver,https://github.com/gentoo/guru/tree/dev/dev-libs/xdna-driver,2.21.75,amd-2026-10-26,https://gitlab.com/kernel-firmware/drm-firmware/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
-dev-build/buildstream-plugins-community,https://github.com/gentoo/guru/tree/dev/dev-build/buildstream-plugins-community,2.3.1,2.4.0,https://gitlab.com/BuildStream/buildstream-plugins-community/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
+dev-build/buildstream-plugins-community,https://github.com/gentoo/guru/tree/dev/dev-build/buildstream-plugins-community,2.3.1,2.5.0,https://gitlab.com/BuildStream/buildstream-plugins-community/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
 gnome-extra/vvmplayer,https://github.com/gentoo/guru/tree/dev/gnome-extra/vvmplayer,1.4,2.6,https://gitlab.com/kop316/vvmplayer/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 games-util/sdl2-gamepad-mapper,https://github.com/gentoo/guru/tree/dev/games-util/sdl2-gamepad-mapper,0.0.8,0.0.9,https://gitlab.com/ryochan7/sdl2-gamepad-mapper/tags,carana2099@gmail.com,https://repology.org/maintainer/carana2099@gmail.com
 app-office/pyspread,https://github.com/gentoo/guru/tree/dev/app-office/pyspread,2.4,2.5,https://gitlab.com/pyspread/pyspread/tags,-,-
