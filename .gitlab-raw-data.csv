@@ -12,7 +12,7 @@ media-gfx/azpainter,https://github.com/gentoo/guru/tree/dev/media-gfx/azpainter,
 net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.22.7,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
 net-im/conduit,https://github.com/gentoo/guru/tree/dev/net-im/conduit,0.10.12,0.10.15,https://gitlab.com/famedly/conduit/tags,cyber+gentoo@sysrq.in,https://repology.org/maintainer/cyber+gentoo@sysrq.in
 app-mobilephone/mobile-config-firefox,https://github.com/gentoo/guru/tree/dev/app-mobilephone/mobile-config-firefox,2.1.0,4.3.2,https://gitlab.com/postmarketOS/mobile-config-firefox/tags,-,-
-sci-physics/ovito,https://github.com/gentoo/guru/tree/dev/sci-physics/ovito,3.10.5,3.16.1,https://gitlab.com/stuko/ovito/tags,strdenis02@gmail.com,https://repology.org/maintainer/strdenis02@gmail.com
+sci-physics/ovito,https://github.com/gentoo/guru/tree/dev/sci-physics/ovito,3.10.5,3.17.1,https://gitlab.com/stuko/ovito/tags,strdenis02@gmail.com,https://repology.org/maintainer/strdenis02@gmail.com
 gui-libs/libcprime,https://github.com/gentoo/guru/tree/dev/gui-libs/libcprime,5.0.0,5.0.1,https://gitlab.com/cubocore/libcprime/tags,-,-
 gui-libs/libcsys,https://github.com/gentoo/guru/tree/dev/gui-libs/libcsys,5.0.0,5.0.1,https://gitlab.com/cubocore/libcsys/tags,-,-
 net-misc/peertube-viewer-rs,https://github.com/gentoo/guru/tree/dev/net-misc/peertube-viewer-rs,1.8.6,1.8.13,https://gitlab.com/peertube-viewer/peertube-viewer-rs/tags,-,-
