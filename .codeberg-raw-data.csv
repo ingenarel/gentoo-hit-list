@@ -1,6 +1,6 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 net-news/newsraft,https://github.com/gentoo/guru/tree/dev/net-news/newsraft,0.38,newsraft-0.38,https://codeberg.org/newsraft/newsraft/tags,contact@hacktivis.me,https://repology.org/maintainer/contact@hacktivis.me
-app-text/komikku,https://github.com/gentoo/guru/tree/dev/app-text/komikku,1.103.0,51.2.1,https://codeberg.org/valos/Komikku/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
+app-text/komikku,https://github.com/gentoo/guru/tree/dev/app-text/komikku,1.103.0,51.3.0,https://codeberg.org/valos/Komikku/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
 gui-wm/rhine,https://github.com/gentoo/guru/tree/dev/gui-wm/rhine,0.4.1,0.5.0,https://codeberg.org/Sivecano/rhine/tags,Sivecano@gmail.com,https://repology.org/maintainer/Sivecano@gmail.com
 gui-wm/kwm,https://github.com/gentoo/guru/tree/dev/gui-wm/kwm,0.3.0,0.4.0,https://codeberg.org/ifreund/zig-pixman/tags,vi@vimproved.dev,https://repology.org/maintainer/vi@vimproved.dev
 media-gfx/sxot,https://github.com/gentoo/guru/tree/dev/media-gfx/sxot,1.0.0,1.1.0,https://codeberg.org/NRK/sxot/tags,nrk@disroot.org,https://repology.org/maintainer/nrk@disroot.org

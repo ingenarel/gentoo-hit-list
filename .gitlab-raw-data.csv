@@ -1,6 +1,5 @@
 package,packageLink,ebuildVersion,sourceVersion,sourceTagsLink,maintainerEmail,repologyEmail
 dev-libs/xdna-driver,https://github.com/gentoo/guru/tree/dev/dev-libs/xdna-driver,2.21.75,amd-2026-10-26,https://gitlab.com/kernel-firmware/drm-firmware/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
-dev-build/buildstream-plugins-community,https://github.com/gentoo/guru/tree/dev/dev-build/buildstream-plugins-community,2.3.1,2.5.0,https://gitlab.com/BuildStream/buildstream-plugins-community/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
 gnome-extra/vvmplayer,https://github.com/gentoo/guru/tree/dev/gnome-extra/vvmplayer,1.4,2.6,https://gitlab.com/kop316/vvmplayer/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 games-util/sdl2-gamepad-mapper,https://github.com/gentoo/guru/tree/dev/games-util/sdl2-gamepad-mapper,0.0.8,0.0.9,https://gitlab.com/ryochan7/sdl2-gamepad-mapper/tags,carana2099@gmail.com,https://repology.org/maintainer/carana2099@gmail.com
 app-office/pyspread,https://github.com/gentoo/guru/tree/dev/app-office/pyspread,2.4,2.5,https://gitlab.com/pyspread/pyspread/tags,-,-
@@ -9,7 +8,7 @@ games-rpg/open-adventure,https://github.com/gentoo/guru/tree/dev/games-rpg/open-
 media-video/megapixels,https://github.com/gentoo/guru/tree/dev/media-video/megapixels,1.4.3,1.7.0,https://gitlab.com/postmarketOS/megapixels/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 net-voip/vvmd,https://github.com/gentoo/guru/tree/dev/net-voip/vvmd,0.8,1.1,https://gitlab.com/kop316/vvmd/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 media-gfx/azpainter,https://github.com/gentoo/guru/tree/dev/media-gfx/azpainter,3.0.12,3.0.12.3,https://gitlab.com/azelpg/azpainter/tags,-,-
-net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.22.7,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
+net-im/flare,https://github.com/gentoo/guru/tree/dev/net-im/flare,0.12.0,0.22.8,https://gitlab.com/schmiddi-on-mobile/flare/tags,-,-
 net-im/conduit,https://github.com/gentoo/guru/tree/dev/net-im/conduit,0.10.12,0.10.15,https://gitlab.com/famedly/conduit/tags,cyber+gentoo@sysrq.in,https://repology.org/maintainer/cyber+gentoo@sysrq.in
 app-mobilephone/mobile-config-firefox,https://github.com/gentoo/guru/tree/dev/app-mobilephone/mobile-config-firefox,2.1.0,4.3.2,https://gitlab.com/postmarketOS/mobile-config-firefox/tags,-,-
 sci-physics/ovito,https://github.com/gentoo/guru/tree/dev/sci-physics/ovito,3.10.5,3.17.1,https://gitlab.com/stuko/ovito/tags,strdenis02@gmail.com,https://repology.org/maintainer/strdenis02@gmail.com
@@ -22,7 +21,6 @@ sys-apps/mission-center,https://github.com/gentoo/guru/tree/dev/sys-apps/mission
 sys-apps/coolercontrol,https://github.com/gentoo/guru/tree/dev/sys-apps/coolercontrol,4.3.1,5.1.1,https://gitlab.com/coolercontrol/coolercontrol/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
 app-misc/metadata-cleaner,https://github.com/gentoo/guru/tree/dev/app-misc/metadata-cleaner,4.0.0,4.0.1,https://gitlab.com/metadatacleaner/metadatacleaner/tags,gasc@eurecom.fr,https://repology.org/maintainer/gasc@eurecom.fr
 app-misc/ufetch,https://github.com/gentoo/guru/tree/dev/app-misc/ufetch,0.3,0.4,https://gitlab.com/jschx/ufetch/tags,-,-
-dev-util/buildbox,https://github.com/gentoo/guru/tree/dev/dev-util/buildbox,1.4.13,1.4.31,https://gitlab.com/BuildGrid/buildbox/buildbox/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
 gui-apps/darkman,https://github.com/gentoo/guru/tree/dev/gui-apps/darkman,2.2.0,2.3.1,https://gitlab.com/WhyNotHugo/darkman/tags,mm1ke@gentoo.org,https://repology.org/maintainer/mm1ke@gentoo.org
 gui-apps/shikane,https://github.com/gentoo/guru/tree/dev/gui-apps/shikane,1.0.1,1.1.1,https://gitlab.com/w0lff/shikane/tags,truffle074@gmail.com,https://repology.org/maintainer/truffle074@gmail.com
 mpv-plugin/mpv-plugin-xrandr,https://github.com/gentoo/guru/tree/dev/mpv-plugin/mpv-plugin-xrandr,2023.06.19,tags/r2023_06_19,https://gitlab.com/lvml/mpv-plugin-xrandr/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
