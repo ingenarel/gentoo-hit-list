@@ -12,12 +12,12 @@ generate_line(){
                 git -C "$repo_path" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --committer "$1"
             } | sort | tail -n1
         )"
-    if [ -n "${last_commit}" ]; then
-        last_commit="${last_commit//,/}"
-        echo "${last_commit//|/,}"
-    else
-        echo "0,0,NO COMMIT FOUND BY THIS EMAIL,$1"
-    fi
+    # if [[ -n "${last_commit}" ]]; then
+    #     last_commit="${last_commit//,/}"
+    echo "${last_commit//|/,}"
+    # else
+    #     echo "0,0,NO COMMIT FOUND BY THIS EMAIL,$1"
+    # fi
 }
 
 echo "unix timestamp,relative time,commit hash,email" > ./.maintainer-stats.csv
