@@ -1,20 +1,18 @@
-#!/bin/sh
-
+#!/usr/bin/env bash
 scriptDir="$(realpath --canonicalize-missing "$0/.." --relative-to="$PWD" )"
 
 . "$scriptDir/utils.sh"
 
 generate_line(){
-    last_commit="$(
+    local last_commit="$(
             {
-                git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --author "$1"
-                git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --committer "$1"
+                git -C "$repo_path" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --author "$1"
+                git -C "$repo_path" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --committer "$1"
             } | sort | tail -n1
         )"
     if [ -n "${last_commit}" ]; then
-        # last_commit="${last_commit//,/}"
-        # echo "${last_commit//|/,}"
-        echo "$last_commit" | sed -E 's/,//g; s/|/,/g'
+        last_commit="${last_commit//,/}"
+        echo "${last_commit//|/,}"
     else
         echo "0,0,NO COMMIT FOUND BY THIS EMAIL,$1"
     fi
@@ -23,7 +21,7 @@ generate_line(){
 echo "unix timestamp,relative time,commit hash,email" > ./.maintainer-stats.csv
 
 while IFS='' read -r line; do
-    REPO_PATH="$(echo "${line}" | awk '{print $1}' | xargs realpath )"
+    repo_path="$(echo "${line}" | awk '{print $1}' | xargs realpath )"
     find . -name 'metadata.xml' -exec dirname {} \; | while read -r line; do
         maintainerCheck "$line"
         printf '\n'
