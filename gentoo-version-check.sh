@@ -27,8 +27,8 @@ while IFS='' read -r line; do
         "$scriptDir/checkcodebergfiles.sh" "$scriptDir/$repoName" &
         "$scriptDir/checksourcehutfiles.sh" "$scriptDir/$repoName" &
     }
+    "$scriptDir/maintainer-stats.sh"
 done < "$scriptDir/config"
-"$scriptDir/maintainer-stats.sh"
 
 echo "waiting for scripts to complete" >&2
 wait
