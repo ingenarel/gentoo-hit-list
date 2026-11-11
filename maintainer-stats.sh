@@ -25,12 +25,14 @@ echo "unix timestamp,relative time,commit hash,email" > ./.maintainer-stats.csv
 while IFS='' read -r line; do
     REPO_PATH="$(echo "${line}" | awk '{print $1}' | xargs realpath )"
     find . -name 'metadata.xml' -exec dirname {} \; | while read -r line; do
+        echo "line in maintainercheck: $line" 1>&2
         maintainerCheck "$line"
         printf '\n'
     done |
     sort |
     uniq |
     grep --invert-match -E '^(-|\s*)$' | while IFS='' read -r line; do
+        echo "line in generate_line: $line" 1>&2
         generate_line "$line"
     done |
     sort |
