@@ -12,10 +12,9 @@ generate_line(){
             } | sort | tail -n1
         )"
     if [ -n "${last_commit}" ]; then
-        last_commit="$(echo "$last_commit" | sed -E 's/,//g; s/\|/,/g')"
+        # last_commit="${last_commit//,/}"
         # echo "${last_commit//|/,}"
-        echo "$last_commit"
-        echo "last commit: '$last_commit'" 1>&2
+        echo "$last_commit" | sed -E 's/,//g; s/\|/,/g'
     else
         echo "0,0,NO COMMIT FOUND BY THIS EMAIL,$1"
     fi
