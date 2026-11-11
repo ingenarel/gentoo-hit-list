@@ -3,7 +3,7 @@ scriptDir="$(realpath --canonicalize-missing "$0/.." --relative-to="$PWD" )"
 
 . "$scriptDir/utils.sh"
 
-MAX_JOBS=1
+MAX_JOBS=10
 
 generate_line(){
     local last_commit="$(
