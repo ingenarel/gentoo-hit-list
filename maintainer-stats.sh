@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 scriptDir="$(realpath --canonicalize-missing "$0/.." --relative-to="$PWD" )"
 
-. "$scriptDir/utils.sh"
+source "$scriptDir/utils.sh"
 
 MAX_JOBS=10
 
