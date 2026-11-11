@@ -7,8 +7,8 @@ scriptDir="$(realpath --canonicalize-missing "$0/.." --relative-to="$PWD" )"
 generate_line(){
     last_commit="$(
             {
-                git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --author "$1" 1>&2
-                git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --committer "$1" 1>&2
+                git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --author "$1"
+                git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --committer "$1"
             } | sort | tail -n1
         )"
     if [ -n "${last_commit}" ]; then
@@ -31,7 +31,8 @@ while IFS='' read -r line; do
     done |
     sort |
     uniq |
-    grep --invert-match -E '^(-|\s*)$' | while IFS='' read -r line; do
+    while IFS='' read -r line; do
+        # grep --invert-match -E '^(-|\s*)$' | while IFS='' read -r line; do
         echo "line in generate_line: '$line'" 1>&2
         generate_line "$line"
     done |
