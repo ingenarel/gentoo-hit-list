@@ -26,7 +26,7 @@ while IFS='' read -r line; do
     REPO_PATH="$(echo "${line}" | awk '{print $1}' | xargs realpath )"
     find . -name 'metadata.xml' -exec dirname {} \; | while read -r line; do
         echo "line in maintainercheck: '$line'" 1>&2
-        maintainerCheck "$line" 1>&2
+        maintainerCheck "$line"
         printf '\n'
     done |
     sort |
