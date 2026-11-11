@@ -3,8 +3,6 @@ scriptDir="$(realpath --canonicalize-missing "$0/.." --relative-to="$PWD" )"
 
 . "$scriptDir/utils.sh"
 
-MAX_JOBS=1
-
 generate_line(){
     local last_commit="$(
             {
@@ -31,11 +29,7 @@ while IFS='' read -r line; do
     sort |
     uniq |
     grep --invert-match -E '^(-|\s*)$' | while IFS='' read -r line; do
-        generate_line "$line" &
-        LAST_PID="$!"
-        if [[ "$(jobs -r | wc -l)" -ge "$MAX_JOBS" ]]; then
-            wait "$LAST_PID"
-        fi
+        generate_line "$line"
     done |
     sort |
     uniq
