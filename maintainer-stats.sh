@@ -6,10 +6,11 @@ scriptDir="$(realpath --canonicalize-missing "$0/.." --relative-to="$PWD" )"
 
 generate_line(){
     last_commit="$(
-            {
-                git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --author "$1"
+            # {
+            #     git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --author "$1"
+            #     git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --committer "$1"
+            # } | sort | tail -n1
                 git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --committer "$1"
-            } | sort | tail -n1
         )"
     if [ -n "${last_commit}" ]; then
         last_commit="$(echo "$last_commit" | sed -E 's/,//g; s/\|/,/g')"
