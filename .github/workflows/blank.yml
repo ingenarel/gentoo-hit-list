@@ -11,7 +11,7 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          ./gentoo-version-check.sh
+          ./gentoo-version-check.sh dry
           git add README.md .*.csv
           git commit -m "ci(update): on $(date --iso-8601=seconds)"
           git push origin HEAD
