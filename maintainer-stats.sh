@@ -7,8 +7,8 @@ scriptDir="$(realpath --canonicalize-missing "$0/.." --relative-to="$PWD" )"
 generate_line(){
     last_commit="$(
             {
-                git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --author "$1"
-                git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --committer "$1"
+                git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --author "$1" 1>&2
+                git -C "$REPO_PATH" --no-pager log --format=format:'%at|%ar|%H|%ae%n' --max-count 1 --committer "$1" 1>&2
             } | sort | tail -n1
         )"
     if [ -n "${last_commit}" ]; then
@@ -26,7 +26,7 @@ while IFS='' read -r line; do
     REPO_PATH="$(echo "${line}" | awk '{print $1}' | xargs realpath )"
     find . -name 'metadata.xml' -exec dirname {} \; | while read -r line; do
         echo "line in maintainercheck: $line" 1>&2
-        maintainerCheck "$line"
+        maintainerCheck "$line" 1>&2
         printf '\n'
     done |
     sort |
