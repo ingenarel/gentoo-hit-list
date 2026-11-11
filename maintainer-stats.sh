@@ -14,7 +14,7 @@ generate_line(){
     if [ -n "${last_commit}" ]; then
         # last_commit="${last_commit//,/}"
         # echo "${last_commit//|/,}"
-        echo "$last_commit" | sed -E 's/,//g; s/|/,/g'
+        echo "$last_commit" | sed -E 's/,//g; s/\|/,/g'
     else
         echo "0,0,NO COMMIT FOUND BY THIS EMAIL,$1"
     fi
