@@ -14,12 +14,10 @@ while IFS='' read -r line; do
     repoName="$(echo "$line" | awk '{print $1}')"
     repoBranch="$(echo "$line" | awk '{print $2}')"
     repoLink="$(echo "$line" | awk '{print $3}')"
-    git\
-        clone\
-        --single-branch\
-        --depth 1\
-        --branch "$repoBranch"\
-        "$repoLink"\
+    git \
+        clone \
+        --branch "$repoBranch" \
+        "$repoLink" \
         "$scriptDir/$repoName" > /dev/null ||
     git -C "$scriptDir/$repoName" pull > /dev/null
     [ "$1" != dry ] && {
