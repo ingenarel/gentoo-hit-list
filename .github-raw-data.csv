@@ -6,7 +6,7 @@ games-puzzle/katawa-shoujo,https://github.com/gentoo/guru/tree/dev/games-puzzle/
 games-puzzle/aaaaxy,https://github.com/gentoo/guru/tree/dev/games-puzzle/aaaaxy,1.5.250,1.8.34,https://github.com/divVerent/aaaaxy/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
 sci-misc/boinc-wrapper,https://github.com/gentoo/guru/tree/dev/sci-misc/boinc-wrapper,26019,client_release/8.2/8.2.15,https://github.com/BOINC/boinc/tags,cyber+gentoo@sysrq.in,https://repology.org/maintainer/cyber+gentoo@sysrq.in
 sci-misc/praat,https://github.com/gentoo/guru/tree/dev/sci-misc/praat,7.0.02,7.0.03,https://github.com/praat/praat.github.io/tags,kat@knifepoint.net,https://repology.org/maintainer/kat@knifepoint.net
-sci-misc/llama-cpp,https://github.com/gentoo/guru/tree/dev/sci-misc/llama-cpp,0.8.0,b12255,https://github.com/ggml-org/llama.cpp/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
+sci-misc/llama-cpp,https://github.com/gentoo/guru/tree/dev/sci-misc/llama-cpp,0.8.0,b12282,https://github.com/ggml-org/llama.cpp/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
 dev-zig/zls,https://github.com/gentoo/guru/tree/dev/dev-zig/zls,0.16.0,0.17.0,https://github.com/zigtools/zls/tags,bratishkaerik@landless-city.net,https://repology.org/maintainer/bratishkaerik@landless-city.net
 media-fonts/last-resort,https://github.com/gentoo/guru/tree/dev/media-fonts/last-resort,17.000,18.000,https://github.com/unicode-org/last-resort-font/tags,-,-
 media-fonts/overpass,https://github.com/gentoo/guru/tree/dev/media-fonts/overpass,3.0.4,3.0.5,https://github.com/RedHatOfficial/Overpass/tags,andrea.postiglione@gmail.com,https://repology.org/maintainer/andrea.postiglione@gmail.com
@@ -25,10 +25,10 @@ sys-process/nohang,https://github.com/gentoo/guru/tree/dev/sys-process/nohang,0.
 app-crypt/nitrokey-app2,https://github.com/gentoo/guru/tree/dev/app-crypt/nitrokey-app2,2.5.2,2.7.1,https://github.com/Nitrokey/nitrokey-app2/tags,beatussum@protonmail.com,https://repology.org/maintainer/beatussum@protonmail.com
 app-crypt/nitrokey-udev-rules,https://github.com/gentoo/guru/tree/dev/app-crypt/nitrokey-udev-rules,1.1.0,1.1.1,https://github.com/Nitrokey/nitrokey-udev-rules/tags,jernej.jakob@gmail.com,https://repology.org/maintainer/jernej.jakob@gmail.com
 app-crypt/pynitrokey,https://github.com/gentoo/guru/tree/dev/app-crypt/pynitrokey,0.13.0,0.14.1,https://github.com/Nitrokey/pynitrokey/tags,jernej.jakob@gmail.com,https://repology.org/maintainer/jernej.jakob@gmail.com
-app-crypt/certbot-dns-cloudflare,https://github.com/gentoo/guru/tree/dev/app-crypt/certbot-dns-cloudflare,5.6.0,5.9.0,https://github.com/certbot/certbot/tags,kcelbert@gmail.com,https://repology.org/maintainer/kcelbert@gmail.com
+app-crypt/certbot-dns-cloudflare,https://github.com/gentoo/guru/tree/dev/app-crypt/certbot-dns-cloudflare,5.6.0,5.10.0,https://github.com/certbot/certbot/tags,kcelbert@gmail.com,https://repology.org/maintainer/kcelbert@gmail.com
 app-crypt/rage,https://github.com/gentoo/guru/tree/dev/app-crypt/rage,0.11.2,0.12.1,https://github.com/str4d/rage/tags,ceres@ceressees.dev,https://repology.org/maintainer/ceres@ceressees.dev
 app-crypt/certbot-dns-desec,https://github.com/gentoo/guru/tree/dev/app-crypt/certbot-dns-desec,1.2.1,1.3.2,https://github.com/desec-io/certbot-dns-desec/tags,-,-
-app-crypt/certbot-dns-rfc2136,https://github.com/gentoo/guru/tree/dev/app-crypt/certbot-dns-rfc2136,3.2.0,5.9.0,https://github.com/certbot/certbot/tags,thican@thican.net,https://repology.org/maintainer/thican@thican.net
+app-crypt/certbot-dns-rfc2136,https://github.com/gentoo/guru/tree/dev/app-crypt/certbot-dns-rfc2136,3.2.0,5.10.0,https://github.com/certbot/certbot/tags,thican@thican.net,https://repology.org/maintainer/thican@thican.net
 app-crypt/intel-ipsec-mb,https://github.com/gentoo/guru/tree/dev/app-crypt/intel-ipsec-mb,1.5,3.0.0,https://github.com/intel/intel-ipsec-mb/tags,gentoo@aisha.cc,https://repology.org/maintainer/gentoo@aisha.cc
 app-crypt/tang,https://github.com/gentoo/guru/tree/dev/app-crypt/tang,15,16,https://github.com/latchset/tang/tags,salah.coronya@gmail.com,https://repology.org/maintainer/salah.coronya@gmail.com
 dev-ml/lsp,https://github.com/gentoo/guru/tree/dev/dev-ml/lsp,1.19.0,1.26.1,https://github.com/ocaml/ocaml-lsp/tags,tokusan441@gmail.com,https://repology.org/maintainer/tokusan441@gmail.com
@@ -54,7 +54,7 @@ dev-libs/unordered_dense,https://github.com/gentoo/guru/tree/dev/dev-libs/unorde
 dev-libs/ls-hpack,https://github.com/gentoo/guru/tree/dev/dev-libs/ls-hpack,2.3.4,2.3.5,https://github.com/litespeedtech/ls-hpack/tags,trakrailysurely@danceylove.net,https://repology.org/maintainer/trakrailysurely@danceylove.net
 dev-libs/s2n,https://github.com/gentoo/guru/tree/dev/dev-libs/s2n,1.5.27,1.7.13,https://github.com/aws/s2n-tls/tags,trakrailysurely@danceylove.net,https://repology.org/maintainer/trakrailysurely@danceylove.net
 dev-libs/ip2loc,https://github.com/gentoo/guru/tree/dev/dev-libs/ip2loc,8.6.1,8.7.0,https://github.com/chrislim2888/IP2Location-C-Library/tags,trakrailysurely@danceylove.net,https://repology.org/maintainer/trakrailysurely@danceylove.net
-dev-libs/libsignal-ffi,https://github.com/gentoo/guru/tree/dev/dev-libs/libsignal-ffi,0.87.5,0.106.2,https://github.com/signalapp/libsignal/tags,-,-
+dev-libs/libsignal-ffi,https://github.com/gentoo/guru/tree/dev/dev-libs/libsignal-ffi,0.87.5,0.107.0,https://github.com/signalapp/libsignal/tags,-,-
 dev-libs/libcli,https://github.com/gentoo/guru/tree/dev/dev-libs/libcli,1.10.7,V1.10.7,https://github.com/dparrish/libcli/tags,zhuyifei1999@gmail.com,https://repology.org/maintainer/zhuyifei1999@gmail.com
 dev-libs/luksmeta,https://github.com/gentoo/guru/tree/dev/dev-libs/luksmeta,10,11,https://github.com/latchset/luksmeta/tags,-,-
 dev-libs/randomx,https://github.com/gentoo/guru/tree/dev/dev-libs/randomx,1.2.1,1.2.3,https://github.com/tevador/RandomX/tags,-,-
@@ -127,7 +127,6 @@ sci-electronics/liblxi,https://github.com/gentoo/guru/tree/dev/sci-electronics/l
 sci-electronics/vhdl-ls,https://github.com/gentoo/guru/tree/dev/sci-electronics/vhdl-ls,0.87.0,hdl-dump-ast-v0.1.0,https://github.com/VHDL-LS/rust_hdl/tags,the.past.cant.be.returned@gmail.com,https://repology.org/maintainer/the.past.cant.be.returned@gmail.com
 sys-power/auto-cpufreq,https://github.com/gentoo/guru/tree/dev/sys-power/auto-cpufreq,2.6.0,3.2.0,https://github.com/AdnanHodzic/auto-cpufreq/tags,pascal.jaeger@leimstift.de,https://repology.org/maintainer/pascal.jaeger@leimstift.de
 sys-power/fan2go-tui,https://github.com/gentoo/guru/tree/dev/sys-power/fan2go-tui,0.2.1,0.4.0,https://github.com/markusressel/fan2go-tui/tags,ghostyn678+git@gmail.com,https://repology.org/maintainer/ghostyn678+git@gmail.com
-games-simulation/youre-the-os,https://github.com/gentoo/guru/tree/dev/games-simulation/youre-the-os,1.11.2,1.12.0,https://github.com/plbrault/youre-the-os/tags,shimontrolles@gmail.com,https://repology.org/maintainer/shimontrolles@gmail.com
 dev-cpp/dpp,https://github.com/gentoo/guru/tree/dev/dev-cpp/dpp,10.1.5,10.1.6,https://github.com/brainboxdotcc/dpp/tags,folosp2@gmail.com,https://repology.org/maintainer/folosp2@gmail.com
 dev-cpp/tinygltf,https://github.com/gentoo/guru/tree/dev/dev-cpp/tinygltf,2.9.6,3.1.0,https://github.com/syoyo/tinygltf/tags,dangduong31205@gmail.com,https://repology.org/maintainer/dangduong31205@gmail.com
 dev-cpp/workflow,https://github.com/gentoo/guru/tree/dev/dev-cpp/workflow,0.10.5,1.1.1,https://github.com/sogou/workflow/tags,gentoo@aisha.cc,https://repology.org/maintainer/gentoo@aisha.cc
@@ -140,7 +139,7 @@ dev-cpp/trantor,https://github.com/gentoo/guru/tree/dev/dev-cpp/trantor,1.5.20,1
 dev-cpp/units,https://github.com/gentoo/guru/tree/dev/dev-cpp/units,3.3.0,3.6.1,https://github.com/nholthaus/units/tags,kostadinshishmanov@protonmail.com,https://repology.org/maintainer/kostadinshishmanov@protonmail.com
 net-nntp/nzb-monkey-go,https://github.com/gentoo/guru/tree/dev/net-nntp/nzb-monkey-go,0.3.3,0.4.0-beta1,https://github.com/Tensai75/nzb-monkey-go/tags,sighunter@gmx.de,https://repology.org/maintainer/sighunter@gmx.de
 games-util/bottles,https://github.com/gentoo/guru/tree/dev/games-util/bottles,66.6,67.6,https://github.com/bottlesdevs/Bottles/tags,contact@paveloom.dev,https://repology.org/maintainer/contact@paveloom.dev
-games-util/goverlay,https://github.com/gentoo/guru/tree/dev/games-util/goverlay,1.2,1.9.4,https://github.com/benjamimgois/goverlay/tags,1758961307@qq.com,https://repology.org/maintainer/1758961307@qq.com
+games-util/goverlay,https://github.com/gentoo/guru/tree/dev/games-util/goverlay,1.2,2.0.0-RC1,https://github.com/benjamimgois/goverlay/tags,1758961307@qq.com,https://repology.org/maintainer/1758961307@qq.com
 games-util/itch-bin,https://github.com/gentoo/guru/tree/dev/games-util/itch-bin,26.1.9,26.22.0,https://github.com/itchio/itch/tags,tea+gentoo@cuddleslut.fr,https://repology.org/maintainer/tea+gentoo@cuddleslut.fr
 games-util/protonup-rs,https://github.com/gentoo/guru/tree/dev/games-util/protonup-rs,0.15.1,0.16.0,https://github.com/auyer/Protonup-rs/tags,ingenarel_neojesus@disroot.org,https://repology.org/maintainer/ingenarel_neojesus@disroot.org
 games-util/roll,https://github.com/gentoo/guru/tree/dev/games-util/roll,2.6.1,2.7.0,https://github.com/matteocorti/roll/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
@@ -172,7 +171,7 @@ dev-vcs/llm-git,https://github.com/gentoo/guru/tree/dev/dev-vcs/llm-git,5.4.0,5.
 dev-vcs/gitcomet,https://github.com/gentoo/guru/tree/dev/dev-vcs/gitcomet,0.3.0,0.3.4,https://github.com/Auto-Explore/GitComet/tags,ghostyn678+git@gmail.com,https://repology.org/maintainer/ghostyn678+git@gmail.com
 x11-themes/arc-darkest-colors,https://github.com/gentoo/guru/tree/dev/x11-themes/arc-darkest-colors,0,1.0,https://github.com/rtlewis88/rtl88-Themes/tags,tea+gentoo@cuddleslut.fr,https://repology.org/maintainer/tea+gentoo@cuddleslut.fr
 app-office/lotus123r3,https://github.com/gentoo/guru/tree/dev/app-office/lotus123r3,1.0.0,1.0.0rc4,https://github.com/taviso/123elf/tags,joe@wt.gd,https://repology.org/maintainer/joe@wt.gd
-app-office/wordcraft,https://github.com/gentoo/guru/tree/dev/app-office/wordcraft,0.6.1,0.17.0,https://github.com/storytold/wordcraft/tags,shimontrolles@gmail.com,https://repology.org/maintainer/shimontrolles@gmail.com
+app-office/wordcraft,https://github.com/gentoo/guru/tree/dev/app-office/wordcraft,0.6.1,0.17.0,https://github.com/storytold/wordcraft/tags,,https://repology.org/maintainer/
 app-office/pdfcraft,https://github.com/gentoo/guru/tree/dev/app-office/pdfcraft,0.14.0,0.20.0,https://github.com/storytold/pdfcraft/tags,shimontrolles@gmail.com,https://repology.org/maintainer/shimontrolles@gmail.com
 app-office/standartnotes-bin,https://github.com/gentoo/guru/tree/dev/app-office/standartnotes-bin,3.183.22,@standardnotes/clipper@1.1.608,https://github.com/standardnotes/app/tags,-,-
 app-office/notesnook-bin,https://github.com/gentoo/guru/tree/dev/app-office/notesnook-bin,2.6.12,3.4.13,https://github.com/streetwriters/notesnook/tags,-,-
@@ -215,7 +214,6 @@ dev-python/ledger-bitcoin,https://github.com/gentoo/guru/tree/dev/dev-python/led
 dev-python/json-repair,https://github.com/gentoo/guru/tree/dev/dev-python/json-repair,0.63.4,0.64.9,https://github.com/mangiucugna/json_repair/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
 dev-python/ruff,https://github.com/gentoo/guru/tree/dev/dev-python/ruff,0.17.3,0.17.4,https://github.com/astral-sh/ruff/tags,shimontrolles@gmail.com,https://repology.org/maintainer/shimontrolles@gmail.com
 dev-python/blurhash,https://github.com/gentoo/guru/tree/dev/dev-python/blurhash,1.1.5,1.1.5-pub-2,https://github.com/halcy/blurhash-python/tags,-,-
-dev-python/nab-markersets,https://github.com/gentoo/guru/tree/dev/dev-python/nab-markersets,0.0.27,0.0.28,https://github.com/notatallshaw/nab/tags,bakedsnake@vagrantz.xyz,https://repology.org/maintainer/bakedsnake@vagrantz.xyz
 dev-python/pystardict,https://github.com/gentoo/guru/tree/dev/dev-python/pystardict,0.8,0.9,https://github.com/lig/pystardict/tags,dev@notyourcomputer.net,https://repology.org/maintainer/dev@notyourcomputer.net
 dev-python/python-telegram-bot,https://github.com/gentoo/guru/tree/dev/dev-python/python-telegram-bot,22.7,22.8,https://github.com/python-telegram-bot/python-telegram-bot/tags,-,-
 dev-python/django-lasuite,https://github.com/gentoo/guru/tree/dev/dev-python/django-lasuite,0.1.0,1.0.0,https://github.com/suitenumerique/django-lasuite/tags,kat@knifepoint.net,https://repology.org/maintainer/kat@knifepoint.net
@@ -227,7 +225,7 @@ dev-python/EbookLib,https://github.com/gentoo/guru/tree/dev/dev-python/EbookLib,
 dev-python/griffelib,https://github.com/gentoo/guru/tree/dev/dev-python/griffelib,2.1.0,2.4.1,https://github.com/mkdocstrings/griffe/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
 dev-python/ptpython,https://github.com/gentoo/guru/tree/dev/dev-python/ptpython,3.0.29,3.0.32,https://github.com/prompt-toolkit/ptpython/tags,wuzhenyu@ustc.edu,https://repology.org/maintainer/wuzhenyu@ustc.edu
 dev-python/pyinstrument,https://github.com/gentoo/guru/tree/dev/dev-python/pyinstrument,5.1.2,5.1.3,https://github.com/joerick/pyinstrument/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
-dev-python/uncalled-for,https://github.com/gentoo/guru/tree/dev/dev-python/uncalled-for,0.4.0,0.6.0,https://github.com/chrisguidry/uncalled-for/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
+dev-python/uncalled-for,https://github.com/gentoo/guru/tree/dev/dev-python/uncalled-for,0.4.0,0.6.1,https://github.com/chrisguidry/uncalled-for/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
 dev-python/phx-class-registry,https://github.com/gentoo/guru/tree/dev/dev-python/phx-class-registry,4.1.0,6.0.0,https://github.com/todofixthis/class-registry/tags,ezzieyguywuf@gmail.com,https://repology.org/maintainer/ezzieyguywuf@gmail.com
 dev-python/anthropic,https://github.com/gentoo/guru/tree/dev/dev-python/anthropic,0.116.0,2.8.0,https://github.com/anthropics/anthropic-sdk-python/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
 dev-python/2captcha,https://github.com/gentoo/guru/tree/dev/dev-python/2captcha,2.1.1,2.1.2,https://github.com/2captcha/2captcha-python/tags,contact@paveloom.dev,https://repology.org/maintainer/contact@paveloom.dev
@@ -243,7 +241,6 @@ dev-python/autopxd,https://github.com/gentoo/guru/tree/dev/dev-python/autopxd,2.
 dev-python/strawberry-graphql,https://github.com/gentoo/guru/tree/dev/dev-python/strawberry-graphql,0.316.0,0.341.2,https://github.com/strawberry-graphql/strawberry/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
 dev-python/pyee,https://github.com/gentoo/guru/tree/dev/dev-python/pyee,14.0.0,16.0.1,https://github.com/jfhbrook/pyee/tags,contact@paveloom.dev,https://repology.org/maintainer/contact@paveloom.dev
 dev-python/xattr,https://github.com/gentoo/guru/tree/dev/dev-python/xattr,1.3.0,1.3.1,https://github.com/xattr/xattr/tags,-,-
-dev-python/nab-index,https://github.com/gentoo/guru/tree/dev/dev-python/nab-index,0.0.27,0.0.28,https://github.com/notatallshaw/nab/tags,bakedsnake@vagrantz.xyz,https://repology.org/maintainer/bakedsnake@vagrantz.xyz
 dev-python/dateparser,https://github.com/gentoo/guru/tree/dev/dev-python/dateparser,1.3.0,1.5.0,https://github.com/scrapinghub/dateparser/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
 dev-python/posthog,https://github.com/gentoo/guru/tree/dev/dev-python/posthog,7.29.0,openfeature-provider-posthog-v0.1.156,https://github.com/PostHog/posthog-python/tags,contact@paveloom.dev,https://repology.org/maintainer/contact@paveloom.dev
 dev-python/playwright,https://github.com/gentoo/guru/tree/dev/dev-python/playwright,1.64.0,1.65.0,https://github.com/microsoft/playwright-python/tags,contact@paveloom.dev,https://repology.org/maintainer/contact@paveloom.dev
@@ -280,18 +277,16 @@ dev-python/justhtml,https://github.com/gentoo/guru/tree/dev/dev-python/justhtml,
 dev-python/jinja2-cli,https://github.com/gentoo/guru/tree/dev/dev-python/jinja2-cli,0.8.2,1.0.1,https://github.com/mattrobenolt/jinja2-cli/tags,-,-
 dev-python/pygments-promql,https://github.com/gentoo/guru/tree/dev/dev-python/pygments-promql,0.0.9,0.2.7,https://github.com/pabluk/pygments-promql/tags,mathieu.tortuyaux@gmail.com,https://repology.org/maintainer/mathieu.tortuyaux@gmail.com
 dev-python/mcp,https://github.com/gentoo/guru/tree/dev/dev-python/mcp,1.28.1,2.3.0,https://github.com/modelcontextprotocol/python-sdk/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
-dev-python/nab-resolver,https://github.com/gentoo/guru/tree/dev/dev-python/nab-resolver,0.0.27,0.0.28,https://github.com/notatallshaw/nab/tags,bakedsnake@vagrantz.xyz,https://repology.org/maintainer/bakedsnake@vagrantz.xyz
 dev-python/py-key-value-aio,https://github.com/gentoo/guru/tree/dev/dev-python/py-key-value-aio,0.4.5,0.4.6,https://github.com/strawgate/py-key-value/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
 dev-python/azure-core,https://github.com/gentoo/guru/tree/dev/dev-python/azure-core,1.28.0,azure-mgmt-horizondb_1.0.0b4,https://github.com/Azure/azure-sdk-for-python/tags,-,-
 dev-python/graphql-core,https://github.com/gentoo/guru/tree/dev/dev-python/graphql-core,3.2.11,3.2.14,https://github.com/graphql-python/graphql-core/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
-dev-python/nab-project,https://github.com/gentoo/guru/tree/dev/dev-python/nab-project,0.0.27,0.0.28,https://github.com/notatallshaw/nab/tags,bakedsnake@vagrantz.xyz,https://repology.org/maintainer/bakedsnake@vagrantz.xyz
 dev-python/guidata,https://github.com/gentoo/guru/tree/dev/dev-python/guidata,3.14.4,3.17.3-rc1,https://github.com/PlotPyStack/guidata/tags,stkw0@disroot.org,https://repology.org/maintainer/stkw0@disroot.org
 dev-python/auditok,https://github.com/gentoo/guru/tree/dev/dev-python/auditok,0.2.0,0.5.2,https://github.com/amsehili/auditok/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
 dev-python/opentelemetry-instrumentation,https://github.com/gentoo/guru/tree/dev/dev-python/opentelemetry-instrumentation,0.66,0.66b2,https://github.com/open-telemetry/opentelemetry-python-contrib/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
 dev-python/pyghidra,https://github.com/gentoo/guru/tree/dev/dev-python/pyghidra,3.2.0,Ghidra_12.2_build,https://github.com/NationalSecurityAgency/ghidra/tags,mit.mis@gmail.com,https://repology.org/maintainer/mit.mis@gmail.com
 dev-python/pipenv,https://github.com/gentoo/guru/tree/dev/dev-python/pipenv,2026.6.1,2026.11.0,https://github.com/pypa/pipenv/tags,oz.tiram@gmail.com,https://repology.org/maintainer/oz.tiram@gmail.com
 dev-python/prefab-ui,https://github.com/gentoo/guru/tree/dev/dev-python/prefab-ui,0.20.2,0.21.1,https://github.com/PrefectHQ/prefab/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
-dev-python/litellm,https://github.com/gentoo/guru/tree/dev/dev-python/litellm,1.91.1,1.103.11,https://github.com/BerriAI/litellm/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
+dev-python/litellm,https://github.com/gentoo/guru/tree/dev/dev-python/litellm,1.91.1,1.106.8,https://github.com/BerriAI/litellm/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
 dev-python/click-command-tree,https://github.com/gentoo/guru/tree/dev/dev-python/click-command-tree,1.1.1,1.2.0,https://github.com/whwright/click-command-tree/tags,-,-
 dev-python/brevo-python,https://github.com/gentoo/guru/tree/dev/dev-python/brevo-python,1.2.0,5.1.0,https://github.com/getbrevo/brevo-python/tags,kat@knifepoint.net,https://repology.org/maintainer/kat@knifepoint.net
 dev-python/dek,https://github.com/gentoo/guru/tree/dev/dev-python/dek,1.5.0,1.6.0,https://github.com/rec/dek/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
@@ -313,7 +308,6 @@ dev-python/sphinx-design,https://github.com/gentoo/guru/tree/dev/dev-python/sphi
 dev-python/pysdl3,https://github.com/gentoo/guru/tree/dev/dev-python/pysdl3,0.9.9,0.9.12b1,https://github.com/Aermoss/PySDL3/tags,stkw0@disroot.org,https://repology.org/maintainer/stkw0@disroot.org
 dev-python/nitrokey,https://github.com/gentoo/guru/tree/dev/dev-python/nitrokey,0.4.2,0.5.0,https://github.com/Nitrokey/nitrokey-sdk-py/tags,beatussum@protonmail.com,https://repology.org/maintainer/beatussum@protonmail.com
 dev-python/readchar,https://github.com/gentoo/guru/tree/dev/dev-python/readchar,4.2.1,4.2.2,https://github.com/magmax/python-readchar/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
-dev-python/nab,https://github.com/gentoo/guru/tree/dev/dev-python/nab,0.0.27,0.0.28,https://github.com/notatallshaw/nab/tags,bakedsnake@vagrantz.xyz,https://repology.org/maintainer/bakedsnake@vagrantz.xyz
 dev-python/litestar,https://github.com/gentoo/guru/tree/dev/dev-python/litestar,2.23.0,2.25.0,https://github.com/litestar-org/litestar/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
 dev-python/lru-dict,https://github.com/gentoo/guru/tree/dev/dev-python/lru-dict,1.4.1,1.5.0,https://github.com/amitdev/lru-dict/tags,cyber+gentoo@sysrq.in,https://repology.org/maintainer/cyber+gentoo@sysrq.in
 dev-python/fastmcp,https://github.com/gentoo/guru/tree/dev/dev-python/fastmcp,3.4.3,4.1.8,https://github.com/PrefectHQ/fastmcp/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
@@ -329,7 +323,6 @@ dev-python/convertdate,https://github.com/gentoo/guru/tree/dev/dev-python/conver
 dev-python/xmod,https://github.com/gentoo/guru/tree/dev/dev-python/xmod,1.9.0,1.10.0,https://github.com/rec/xmod/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
 dev-python/ahocorasick,https://github.com/gentoo/guru/tree/dev/dev-python/ahocorasick,2.1.0,2.3.1,https://github.com/WojciechMula/pyahocorasick/tags,stkw0@disroot.org,https://repology.org/maintainer/stkw0@disroot.org
 dev-python/parsel,https://github.com/gentoo/guru/tree/dev/dev-python/parsel,1.10.0,1.11.0,https://github.com/scrapy/parsel/tags,gentoo@aisha.cc,https://repology.org/maintainer/gentoo@aisha.cc
-dev-python/nab-provider,https://github.com/gentoo/guru/tree/dev/dev-python/nab-provider,0.0.27,0.0.28,https://github.com/notatallshaw/nab/tags,bakedsnake@vagrantz.xyz,https://repology.org/maintainer/bakedsnake@vagrantz.xyz
 dev-python/cronsim,https://github.com/gentoo/guru/tree/dev/dev-python/cronsim,2.7,2.8,https://github.com/cuu508/cronsim/tags,falbrechtskirchinger@gmail.com,https://repology.org/maintainer/falbrechtskirchinger@gmail.com
 dev-lang/bun-bin,https://github.com/gentoo/guru/tree/dev/dev-lang/bun-bin,1.4.4,bun-v1.4.4,https://github.com/oven-sh/bun/tags,me@r0bert.dev,https://repology.org/maintainer/me@r0bert.dev
 dev-lang/odin,https://github.com/gentoo/guru/tree/dev/dev-lang/odin,2026.08,dev-2026-11a,https://github.com/odin-lang/Odin/tags,-,-
@@ -354,9 +347,10 @@ app-text/xan,https://github.com/gentoo/guru/tree/dev/app-text/xan,0.61.0,0.62.0-
 app-text/typstyle,https://github.com/gentoo/guru/tree/dev/app-text/typstyle,0.15.1,0.15.2,https://github.com/typstyle-rs/typstyle/tags,vowstar@gmail.com,https://repology.org/maintainer/vowstar@gmail.com
 app-text/harper,https://github.com/gentoo/guru/tree/dev/app-text/harper,3.0.0,3.1.0,https://github.com/Automattic/harper/tags,timovanveen@hotmail.nl,https://repology.org/maintainer/timovanveen@hotmail.nl
 app-text/OCRmyPDF,https://github.com/gentoo/guru/tree/dev/app-text/OCRmyPDF,16.13.0,17.14.1,https://github.com/ocrmypdf/OCRmyPDF/tags,alarig@swordarmor.fr,https://repology.org/maintainer/alarig@swordarmor.fr
+app-text/lizard,https://github.com/gentoo/guru/tree/dev/app-text/lizard,1.25.1,1.26.0,https://github.com/terryyin/lizard/tags,stkw0@disroot.org,https://repology.org/maintainer/stkw0@disroot.org
 app-text/tinymist,https://github.com/gentoo/guru/tree/dev/app-text/tinymist,0.15.10,0.15.12,https://github.com/Myriad-Dreamin/tinymist/tags,timovanveen@hotmail.nl,https://repology.org/maintainer/timovanveen@hotmail.nl
 app-text/koodo-reader-bin,https://github.com/gentoo/guru/tree/dev/app-text/koodo-reader-bin,1.6.3,2.4.7,https://github.com/troyeguo/koodo-reader/tags,dev@notyourcomputer.net,https://repology.org/maintainer/dev@notyourcomputer.net
-app-text/codebook,https://github.com/gentoo/guru/tree/dev/app-text/codebook,0.3.42,0.3.43,https://github.com/blopker/codebook/tags,contact@paveloom.dev,https://repology.org/maintainer/contact@paveloom.dev
+app-text/codebook,https://github.com/gentoo/guru/tree/dev/app-text/codebook,0.3.42,0.4.0,https://github.com/blopker/codebook/tags,contact@paveloom.dev,https://repology.org/maintainer/contact@paveloom.dev
 app-text/jrnl,https://github.com/gentoo/guru/tree/dev/app-text/jrnl,4.2.1,4.6,https://github.com/jrnl-org/jrnl/tags,mailgentoo@kaats.ch,https://repology.org/maintainer/mailgentoo@kaats.ch
 app-text/vale,https://github.com/gentoo/guru/tree/dev/app-text/vale,3.9.1,3.26.0,https://github.com/errata-ai/vale/tags,erkiferenc@gmail.com,https://repology.org/maintainer/erkiferenc@gmail.com
 app-text/iwe,https://github.com/gentoo/guru/tree/dev/app-text/iwe,0.15.0,iwe-v0.32.0,https://github.com/iwe-org/iwe/tags,contact@paveloom.dev,https://repology.org/maintainer/contact@paveloom.dev
@@ -418,8 +412,8 @@ net-im/forkgram-bin,https://github.com/gentoo/guru/tree/dev/net-im/forkgram-bin,
 net-im/maubot,https://github.com/gentoo/guru/tree/dev/net-im/maubot,0.5.1,0.6.0,https://github.com/maubot/maubot/tags,-,-
 net-im/forkgram,https://github.com/gentoo/guru/tree/dev/net-im/forkgram,6.5.1,7.4.1,https://github.com/forkgram/tdesktop/tags,-,-
 net-im/element-desktop,https://github.com/gentoo/guru/tree/dev/net-im/element-desktop,1.12.7,1.12.34-rc.1,https://github.com/element-hq/element-web/tags,filip@kszczot.pl,https://repology.org/maintainer/filip@kszczot.pl
-net-im/fluxer-canary-bin,https://github.com/gentoo/guru/tree/dev/net-im/fluxer-canary-bin,2026.928.213900,fluxer-app-proxy@2026.1109.183118,https://github.com/fluxerapp/fluxer/tags,-,-
-net-im/teams-for-linux,https://github.com/gentoo/guru/tree/dev/net-im/teams-for-linux,2.27.0,2.31.0,https://github.com/IsmaelMartinez/teams-for-linux/tags,colonia_duck@posteo.net,https://repology.org/maintainer/colonia_duck@posteo.net
+net-im/fluxer-canary-bin,https://github.com/gentoo/guru/tree/dev/net-im/fluxer-canary-bin,2026.928.213900,fluxer-release@2026.1111.31735,https://github.com/fluxerapp/fluxer/tags,-,-
+net-im/teams-for-linux,https://github.com/gentoo/guru/tree/dev/net-im/teams-for-linux,2.27.0,2.31.1,https://github.com/IsmaelMartinez/teams-for-linux/tags,colonia_duck@posteo.net,https://repology.org/maintainer/colonia_duck@posteo.net
 net-im/gurk-rs,https://github.com/gentoo/guru/tree/dev/net-im/gurk-rs,0.7.1,0.10.2,https://github.com/boxdot/gurk-rs/tags,beatussum@protonmail.com,https://repology.org/maintainer/beatussum@protonmail.com
 net-im/chatterino,https://github.com/gentoo/guru/tree/dev/net-im/chatterino,2.5.5,2.5.6,https://github.com/Chatterino/chatterino2/tags,-,-
 net-im/session-desktop-bin,https://github.com/gentoo/guru/tree/dev/net-im/session-desktop-bin,1.15.2,1.18.3,https://github.com/session-foundation/session-desktop/tags,paul007-dev@outlook.com,https://repology.org/maintainer/paul007-dev@outlook.com
@@ -479,6 +473,7 @@ net-print/captdriver,https://github.com/gentoo/guru/tree/dev/net-print/captdrive
 net-libs/ixwebsocket,https://github.com/gentoo/guru/tree/dev/net-libs/ixwebsocket,11.4.4,12.1.0,https://github.com/machinezone/IXWebSocket/tags,rmicielski@purelymail.com,https://repology.org/maintainer/rmicielski@purelymail.com
 net-libs/kcgi,https://github.com/gentoo/guru/tree/dev/net-libs/kcgi,1.0.1,VERSION_1_0_1,https://github.com/kristapsdz/kcgi/tags,gentoo@aisha.cc,https://repology.org/maintainer/gentoo@aisha.cc
 net-libs/sofia-sip,https://github.com/gentoo/guru/tree/dev/net-libs/sofia-sip,1.13.17,1.13.19,https://github.com/freeswitch/sofia-sip/tags,-,-
+dev-dotnet/csharpier,https://github.com/gentoo/guru/tree/dev/dev-dotnet/csharpier,1.3.0,1.4.0,https://github.com/belav/csharpier/tags,mit.mis@gmail.com,https://repology.org/maintainer/mit.mis@gmail.com
 app-shells/mommy,https://github.com/gentoo/guru/tree/dev/app-shells/mommy,1.8.0,2.0.0,https://github.com/fwdekker/mommy/tags,ceres@ceressees.dev,https://repology.org/maintainer/ceres@ceressees.dev
 app-shells/fzf-fish,https://github.com/gentoo/guru/tree/dev/app-shells/fzf-fish,10.3,11.0,https://github.com/PatrickF1/fzf.fish/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
 app-shells/vivid,https://github.com/gentoo/guru/tree/dev/app-shells/vivid,0.10.1,0.11.1,https://github.com/sharkdp/vivid/tags,alexey@zapparov.com,https://repology.org/maintainer/alexey@zapparov.com
@@ -574,6 +569,7 @@ dev-util/gitlab-ci-local-bin,https://github.com/gentoo/guru/tree/dev/dev-util/gi
 dev-util/distribution-gpg-keys,https://github.com/gentoo/guru/tree/dev/dev-util/distribution-gpg-keys,1.119,distribution-gpg-keys-1.117-1,https://github.com/rpm-software-management/distribution-gpg-keys/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
 dev-util/typescript-language-server,https://github.com/gentoo/guru/tree/dev/dev-util/typescript-language-server,5.1.3,6.0.3,https://github.com/typescript-language-server/typescript-language-server/tags,tea+gentoo@cuddleslut.fr,https://repology.org/maintainer/tea+gentoo@cuddleslut.fr
 dev-util/tflint-bin,https://github.com/gentoo/guru/tree/dev/dev-util/tflint-bin,0.46.0,0.66.0,https://github.com/terraform-linters/tflint/tags,-,-
+dev-util/gemini-cli,https://github.com/gentoo/guru/tree/dev/dev-util/gemini-cli,0.67.0,0.68.0,https://github.com/google-gemini/gemini-cli/tags,vowstar@gmail.com,https://repology.org/maintainer/vowstar@gmail.com
 dev-util/mock,https://github.com/gentoo/guru/tree/dev/dev-util/mock,6.7,mock-6.9-1,https://github.com/rpm-software-management/mock/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
 dev-util/libtypec-utils,https://github.com/gentoo/guru/tree/dev/dev-util/libtypec-utils,0.5.2,libtypec-0.5.1,https://github.com/Rajaram-Regupathy/libtypec/tags,adrian.ratiu@collabora.com,https://repology.org/maintainer/adrian.ratiu@collabora.com
 dev-util/gersemi,https://github.com/gentoo/guru/tree/dev/dev-util/gersemi,0.28.0,0.29.2,https://github.com/BlankSpruce/gersemi/tags,contact@paveloom.dev,https://repology.org/maintainer/contact@paveloom.dev
@@ -588,7 +584,6 @@ dev-util/coq-lsp,https://github.com/gentoo/guru/tree/dev/dev-util/coq-lsp,0.1.9,
 dev-util/upstream-ontologist,https://github.com/gentoo/guru/tree/dev/dev-util/upstream-ontologist,0.3.10,0.3.25,https://github.com/jelmer/upstream-ontologist/tags,cyber+gentoo@sysrq.in,https://repology.org/maintainer/cyber+gentoo@sysrq.in
 dev-util/xrt,https://github.com/gentoo/guru/tree/dev/dev-util/xrt,2.21.75,2.25.0,https://github.com/Xilinx/XRT/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
 dev-util/fortran-test-drive,https://github.com/gentoo/guru/tree/dev/dev-util/fortran-test-drive,0.5.0,0.6.1,https://github.com/fortran-lang/test-drive/tags,torokhov-s-a@yandex.ru,https://repology.org/maintainer/torokhov-s-a@yandex.ru
-dev-util/tombi,https://github.com/gentoo/guru/tree/dev/dev-util/tombi,1.11.0,1.11.2,https://github.com/tombi-toml/tombi/tags,ingenarel_neojesus@disroot.org,https://repology.org/maintainer/ingenarel_neojesus@disroot.org
 dev-util/forgejo-runner,https://github.com/gentoo/guru/tree/dev/dev-util/forgejo-runner,13.2.0,13.2.1,https://github.com/gentoo-golang-dist/forgejo-runner/tags,negril.nx+gentoo@gmail.com,https://repology.org/maintainer/negril.nx+gentoo@gmail.com
 dev-util/ios-webkit-debug-proxy,https://github.com/gentoo/guru/tree/dev/dev-util/ios-webkit-debug-proxy,1.9.2,1.9.3,https://github.com/google/ios-webkit-debug-proxy/tags,contact@paveloom.dev,https://repology.org/maintainer/contact@paveloom.dev
 dev-util/pifpaf,https://github.com/gentoo/guru/tree/dev/dev-util/pifpaf,3.3.0,3.4.0,https://github.com/jd/pifpaf/tags,cyber+gentoo@sysrq.in,https://repology.org/maintainer/cyber+gentoo@sysrq.in
@@ -600,7 +595,7 @@ dev-util/lottieconverter,https://github.com/gentoo/guru/tree/dev/dev-util/lottie
 dev-util/mock-core-configs,https://github.com/gentoo/guru/tree/dev/dev-util/mock-core-configs,44.2,mock-6.9-1,https://github.com/rpm-software-management/mock/tags,pastalian46@gmail.com,https://repology.org/maintainer/pastalian46@gmail.com
 dev-util/kimi-code-bin,https://github.com/gentoo/guru/tree/dev/dev-util/kimi-code-bin,2.5.2,@moonshot-ai/kimi-code@2.5.3,https://github.com/MoonshotAI/kimi-code/tags,vowstar@gmail.com,https://repology.org/maintainer/vowstar@gmail.com
 dev-util/ols,https://github.com/gentoo/guru/tree/dev/dev-util/ols,2026.05,dev-2026-10,https://github.com/DanielGavin/ols/tags,sav.boyar@gmail.com,https://repology.org/maintainer/sav.boyar@gmail.com
-dev-util/codex,https://github.com/gentoo/guru/tree/dev/dev-util/codex,0.167.0,rust-v0.167.0-alpha.4.1,https://github.com/openai/codex/tags,vowstar@gmail.com,https://repology.org/maintainer/vowstar@gmail.com
+dev-util/codex,https://github.com/gentoo/guru/tree/dev/dev-util/codex,0.167.0,rust-v0.169.0-alpha.10,https://github.com/openai/codex/tags,vowstar@gmail.com,https://repology.org/maintainer/vowstar@gmail.com
 dev-util/topiary,https://github.com/gentoo/guru/tree/dev/dev-util/topiary,0.7.3,0.8.0,https://github.com/tweag/topiary/tags,freijon@kagimail.com,https://repology.org/maintainer/freijon@kagimail.com
 www-client/zen-bin,https://github.com/gentoo/guru/tree/dev/www-client/zen-bin,1.23.4b,1.24.1b,https://github.com/zen-browser/desktop/tags,saigon-tech@tuta.io,https://repology.org/maintainer/saigon-tech@tuta.io
 www-client/helium-bin,https://github.com/gentoo/guru/tree/dev/www-client/helium-bin,0.20.3.1,0.21.2.1,https://github.com/imputnet/helium-linux/tags,freijon@kagimail.com,https://repology.org/maintainer/freijon@kagimail.com
@@ -639,7 +634,7 @@ gui-apps/xremap,https://github.com/gentoo/guru/tree/dev/gui-apps/xremap,0.15.17,
 gui-apps/way-displays,https://github.com/gentoo/guru/tree/dev/gui-apps/way-displays,1.15.0,2.0.1,https://github.com/alex-courtis/way-displays/tags,-,-
 gui-apps/nwg-displays,https://github.com/gentoo/guru/tree/dev/gui-apps/nwg-displays,0.3.28,0.5.0,https://github.com/nwg-piotr/nwg-displays/tags,pascal.jaeger@leimstift.de,https://repology.org/maintainer/pascal.jaeger@leimstift.de
 gui-apps/wtype,https://github.com/gentoo/guru/tree/dev/gui-apps/wtype,0.4,0.5,https://github.com/atx/wtype/tags,-,-
-games-roguelike/cataclysm-dda,https://github.com/gentoo/guru/tree/dev/games-roguelike/cataclysm-dda,0h,cdda-experimental-2026-11-10-1846,https://github.com/CleverRaven/Cataclysm-DDA/tags,strategictraveler@proton.me,https://repology.org/maintainer/strategictraveler@proton.me
+games-roguelike/cataclysm-dda,https://github.com/gentoo/guru/tree/dev/games-roguelike/cataclysm-dda,0h,cdda-experimental-2026-11-11-0358,https://github.com/CleverRaven/Cataclysm-DDA/tags,strategictraveler@proton.me,https://repology.org/maintainer/strategictraveler@proton.me
 games-roguelike/ShatteredPD,https://github.com/gentoo/guru/tree/dev/games-roguelike/ShatteredPD,4.0.0,4.0.2,https://github.com/00-Evan/shattered-pixel-dungeon/tags,iwetenkamp@proton.me,https://repology.org/maintainer/iwetenkamp@proton.me
 mpv-plugin/SmartCopyPaste,https://github.com/gentoo/guru/tree/dev/mpv-plugin/SmartCopyPaste,3.1,25-09-2023,https://github.com/Eisa01/mpv-scripts/tags,smaniotto.nicola@gmail.com,https://repology.org/maintainer/smaniotto.nicola@gmail.com
 dev-elixir/hex,https://github.com/gentoo/guru/tree/dev/dev-elixir/hex,1.0.1,2.7.0,https://github.com/hexpm/hex/tags,contact@hacktivis.me,https://repology.org/maintainer/contact@hacktivis.me
@@ -657,7 +652,7 @@ www-apps/sonarr,https://github.com/gentoo/guru/tree/dev/www-apps/sonarr,4.0.20.3
 www-apps/laminar,https://github.com/gentoo/guru/tree/dev/www-apps/laminar,1.3,1.4,https://github.com/ohwgiles/laminar/tags,erkiferenc@gmail.com,https://repology.org/maintainer/erkiferenc@gmail.com
 www-apps/lasuite-meet,https://github.com/gentoo/guru/tree/dev/www-apps/lasuite-meet,1.31.0,1.37.0,https://github.com/suitenumerique/meet/tags,kat@knifepoint.net,https://repology.org/maintainer/kat@knifepoint.net
 www-apps/freshrss,https://github.com/gentoo/guru/tree/dev/www-apps/freshrss,1.26.3,1.30.4,https://github.com/FreshRSS/FreshRSS/tags,-,-
-app-admin/chezmoi,https://github.com/gentoo/guru/tree/dev/app-admin/chezmoi,2.73.3,2.74.0,https://github.com/twpayne/chezmoi/tags,me@rebtoor.com,https://repology.org/maintainer/me@rebtoor.com
+app-admin/chezmoi,https://github.com/gentoo/guru/tree/dev/app-admin/chezmoi,2.73.3,2.74.1,https://github.com/twpayne/chezmoi/tags,me@rebtoor.com,https://repology.org/maintainer/me@rebtoor.com
 app-admin/talosctl-bin,https://github.com/gentoo/guru/tree/dev/app-admin/talosctl-bin,1.14.3,1.15.0-beta.0,https://github.com/siderolabs/talos/tags,sm+gentoo@skym.fi,https://repology.org/maintainer/sm+gentoo@skym.fi
 app-admin/tflint,https://github.com/gentoo/guru/tree/dev/app-admin/tflint,0.60.0,0.66.0,https://github.com/terraform-linters/tflint/tags,hi@dutra.sh,https://repology.org/maintainer/hi@dutra.sh
 app-admin/terragrunt-bin,https://github.com/gentoo/guru/tree/dev/app-admin/terragrunt-bin,0.96.1,1.2.1,https://github.com/gruntwork-io/terragrunt/tags,hi@dutra.sh,https://repology.org/maintainer/hi@dutra.sh
