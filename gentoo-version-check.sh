@@ -20,7 +20,6 @@ while IFS='' read -r line; do
         "$repoLink" \
         "$scriptDir/$repoName" > /dev/null ||
     git -C "$scriptDir/$repoName" pull > /dev/null
-    git -C "$scriptDir/$repoName" fetch --unshallow > /dev/null
     [ "$1" != dry ] && {
         "$scriptDir/checkgithubfiles.sh" "$scriptDir/$repoName" &
         "$scriptDir/checkgitlabfiles.sh" "$scriptDir/$repoName" &
