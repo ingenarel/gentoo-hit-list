@@ -17,10 +17,10 @@ net-im/conduit,https://github.com/gentoo/guru/tree/dev/net-im/conduit,0.10.12,0.
 net-misc/peertube-viewer-rs,https://github.com/gentoo/guru/tree/dev/net-misc/peertube-viewer-rs,1.8.6,1.8.14,https://gitlab.com/peertube-viewer/peertube-viewer-rs/tags,-,-
 media-video/megapixels,https://github.com/gentoo/guru/tree/dev/media-video/megapixels,1.4.3,1.7.0,https://gitlab.com/postmarketOS/megapixels/tags,gjdijkman@gjdwebserver.nl,https://repology.org/maintainer/gjdijkman@gjdwebserver.nl
 dev-libs/xdna-driver,https://github.com/gentoo/guru/tree/dev/dev-libs/xdna-driver,2.21.75,intel-2026-11-13,https://gitlab.com/kernel-firmware/drm-firmware/tags,lockalsash@gmail.com,https://repology.org/maintainer/lockalsash@gmail.com
-app-misc/ufetch,https://github.com/gentoo/guru/tree/dev/app-misc/ufetch,0.3,0.4,https://gitlab.com/jschx/ufetch/tags,-,-
 app-misc/metadata-cleaner,https://github.com/gentoo/guru/tree/dev/app-misc/metadata-cleaner,4.0.0,4.0.1,https://gitlab.com/metadatacleaner/metadatacleaner/tags,gasc@eurecom.fr,https://repology.org/maintainer/gasc@eurecom.fr
 dev-python/pyproject2ebuild,https://github.com/gentoo/guru/tree/dev/dev-python/pyproject2ebuild,0.0.3,0.0.4,https://gitlab.com/oz123/pyproject2ebuild/tags,oz.tiram@gmail.com,https://repology.org/maintainer/oz.tiram@gmail.com
 app-mobilephone/mobile-config-firefox,https://github.com/gentoo/guru/tree/dev/app-mobilephone/mobile-config-firefox,2.1.0,4.3.2,https://gitlab.com/postmarketOS/mobile-config-firefox/tags,-,-
+dev-util/buildbox,https://github.com/gentoo/guru/tree/dev/dev-util/buildbox,1.4.31,1.4.32,https://gitlab.com/BuildGrid/buildbox/buildbox/tags,zyx@envs.net,https://repology.org/maintainer/zyx@envs.net
 gui-libs/libcsys,https://github.com/gentoo/guru/tree/dev/gui-libs/libcsys,5.0.0,5.0.1,https://gitlab.com/cubocore/libcsys/tags,-,-
 gui-libs/libcprime,https://github.com/gentoo/guru/tree/dev/gui-libs/libcprime,5.0.0,5.0.1,https://gitlab.com/cubocore/libcprime/tags,-,-
 app-office/pyspread,https://github.com/gentoo/guru/tree/dev/app-office/pyspread,2.4,2.5,https://gitlab.com/pyspread/pyspread/tags,-,-
