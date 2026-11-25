@@ -11,4 +11,4 @@ app-admin/oet,https://github.com/gentoo/guru/tree/dev/app-admin/oet,0.1.11,oet-0
 www-apps/rimgo,https://github.com/gentoo/guru/tree/dev/www-apps/rimgo,1.2.1,2.0-rc.3,https://codeberg.org/rimgo/rimgo/tags,benoit.dufour@mail.com,https://repology.org/maintainer/benoit.dufour@mail.com
 www-apps/forgejo,https://github.com/gentoo/guru/tree/dev/www-apps/forgejo,17.0.1,17.0.2,https://codeberg.org/forgejo/forgejo/tags,artemis@artemis.sh,https://repology.org/maintainer/artemis@artemis.sh
 www-apps/snac,https://github.com/gentoo/guru/tree/dev/www-apps/snac,2.96,2.97,https://codeberg.org/grunfink/snac2/tags,rose@pinkro.se,https://repology.org/maintainer/rose@pinkro.se
-www-apps/mycorrhiza,https://github.com/gentoo/guru/tree/dev/www-apps/mycorrhiza,1.15.1,1.16.0,https://codeberg.org/bouncepaw/mycorrhiza/tags,bratishkaerik@landless-city.net,https://repology.org/maintainer/bratishkaerik@landless-city.net
+www-apps/mycorrhiza,https://github.com/gentoo/guru/tree/dev/www-apps/mycorrhiza,1.15.1,1.16.1,https://codeberg.org/bouncepaw/mycorrhiza/tags,bratishkaerik@landless-city.net,https://repology.org/maintainer/bratishkaerik@landless-city.net
